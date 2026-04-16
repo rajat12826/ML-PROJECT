@@ -98,9 +98,17 @@ The project utilizes two datasets:
   - **Tier 3:** 2-3 LPA (MNCs like TCS/Infosys).
 
 ### 5. Success Path Optimizer (What-If Analysis)
-- **Logic:** **Feature Perturbation**.
+- **Logic:** **Feature Perturbation & Real-Time Recalculation**.
 - **How it works:** The app takes the user's current data, creates a "copy", increases a specific feature (like CGPA) by a slider value, and runs it through the model again.
-- **Why:** Motivating tool to show students that "If you improve your score by 5%, your placement chance jumps from 60% to 80%".
+- **Why:** Motivating tool to show students how specific academic improvements directly impact their professional probability.
+
+### 6. Model Realism & Stability Layer (Advanced)
+- **A. Performance Clipping:**
+    - **Logic:** Clamps academic scores (SSC/HSC/CGPA) to the dataset's logical training maximums (e.g., max 90% or 9.5 CGPA).
+    - **Why:** Prevents "Out-of-Distribution" (OOD) errors where extremely high scores (like 99%) saturate the Sigmoid function and produce a fixed 99.9% probability, regardless of other factors.
+- **B. Skill Alignment Factor:**
+    - **Logic:** Cross-references detected Resume Domains with the chosen Intelligence Mode (MBA vs Engineering).
+    - **Why:** A "Backend Developer" applying for a "Marketing & Finance" MBA role should see a realistic alignment penalty. This adds "Domain Intelligence" to the raw statistical model.
 
 ---
 

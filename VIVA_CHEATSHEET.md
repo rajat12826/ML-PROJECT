@@ -10,11 +10,11 @@ This guide provides a technical breakdown of the core project files. Use this to
 *   **Custom CSS (Lines 17-139):** This is where the magic happens. We use HTML/CSS to inject a dark theme, glowing "blobs" for background aesthetics, and custom fonts (Inter).
 *   **`load_resources` (Lines 150-168):** Uses `@st.cache_resource` so models are only loaded into RAM **once**. If the user switches from "MBA" to "Engineering", it loads the respective `.pkl` files.
 *   **`init_session_state` (Lines 172-195):** Ensures that when the app starts, the input fields have default values and don't crash when switching modes.
-*   **`show_results` (Lines 343-411):** 
-    - First, it encodes the user's input using the saved `LabelEncoder`.
-    - Then, it calls `predict_proba()` to get the placement percentage.
-    - If placed, it calls the `salary_model` to predict the package.
-*   **Success Path Optimizer (Lines 414-439):** A "What-If" tool. It takes the current input, adds a "boost" (e.g., +5% CGPA), and runs the prediction again to show the gain.
+*   **`show_results` (Block beginning ~Line 260):** 
+    - **Step 1: Performance Clipping (Advanced):** We clamp scores (SSC/HSC/CGPA) to dataset maximums (e.g., max 90%). This prevents "Out-of-Distribution" data (like 99% SSC) from saturating the model and giving 99.9% every time.
+    - **Step 2: Skill Alignment (Sanity Check):** If a user has "Tech" skills in the resume but selects "MBA" mode, we apply a 15% alignment penalty (0.85x) to make the probability more realistic.
+    - **Step 3: Prediction:** Calls `predict_proba()` for classification and `salary_model.predict()` (if available) for regression.
+*   **Success Path Optimizer (Block beginning ~Line 390):** A "What-If" tool. It takes the current input, adds a "boost" (e.g., +5% CGPA), and runs the prediction again. We synchronized it to use the same Clipping and Alignment logic as the primary prediction.
 
 ---
 
@@ -57,6 +57,8 @@ This guide provides a technical breakdown of the core project files. Use this to
 3.  **Multicollinearity:** We check this using the Correlation Matrix (Heatmap) in the Dashboard.
 4.  **Hyperparameters:** `n_estimators=100` in Random Forest controls how many trees are built.
 5.  **Handling Imbalanced Data:** We use `classification_report` (Precision/Recall) instead of just Accuracy to ensure the model is fair to both Placed and Not Placed categories.
+6.  **Out-of-Distribution (OOD):** We handle this via **clipping**. If a student enters a score much higher than the training data (e.g., 100%), the model might behave erratically. We clamp inputs to realistic ranges (90-95%) for stability.
+7.  **Skill-Based Post-Processing:** While the core ML model uses academic data, we use "Domain Heuristics" to adjust the probability based on resume skills, ensuring the final score reflects role-alignment.
 
 ---
 *Good luck with your Viva!* 🎓

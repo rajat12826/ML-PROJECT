@@ -57,11 +57,13 @@ class ResumeParser:
             if len(vals) >= 3: features['degree_p'] = vals[2]
             if len(vals) >= 4: features['mba_p'] = vals[3]
 
-        # 2. Gender
+        # 2. Gender — store both MBA format (M/F) and Engineering format (Male/Female)
         if re.search(r'\b(mr\.|male|boy)\b', text_lower):
             features['gender'] = 'M'
+            features['gender_eng'] = 'Male'
         elif re.search(r'\b(ms\.|mrs\.|female|girl)\b', text_lower):
             features['gender'] = 'F'
+            features['gender_eng'] = 'Female'
 
         # 3. Work Experience
         if re.search(r'\b(experience|exp|years of|work|internship)\b', text_lower):
@@ -80,6 +82,17 @@ class ResumeParser:
             features['degree_t'] = 'Sci&Tech'
         elif re.search(r'\b(commerce|mgmt|bba|management|b\.com)\b', text_lower):
             features['degree_t'] = 'Comm&Mgmt'
+
+        # 6. Engineering Specific Heuristics (Projects/Courses)
+        if re.search(r'\b(hackathon|winner|prize|competition|achievement)\b', text_lower):
+            features['innovative_project_eng'] = 'Yes'
+            features['tech_course_eng'] = 'Yes'
+        elif re.search(r'\b(project|built|developed|created)\b', text_lower):
+            features['innovative_project_eng'] = 'Yes'
+
+        if re.search(r'\b(certificate|certified|course|learning path|meta|google)\b', text_lower):
+            features['training_eng'] = 'Yes'
+            features['tech_course_eng'] = 'Yes'
 
         return features
 
