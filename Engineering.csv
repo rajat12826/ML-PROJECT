@@ -1,402 +1,301 @@
-Email,Name,Gender,10th board,10th marks,12th board,12th marks,Stream,Cgpa,Internships(Y/N),Training(Y/N),Backlog in 5th sem,Innovative Project(Y/N),Communication level,Technical Course(Y/N),Placement(Y/N)?
-payal_roy79@gmail.com,Payal Roy,Female,State Board,96.7,CBSE,70.2,Mechanical Engineering,7.37,No,Yes,No,No,3,Yes,Not Placed
-shreyoshi_dey13@gmail.com,Shreyoshi Dey,Female,WBBSE,96.2,WBCHSE,90.6,Electronics and Communication Engineering,9.35,No,No,No,Yes,4,No,Not Placed
-rohan_nandi12@gmail.com,Rohan Nandi,Male,State Board,97.5,CBSE,69.6,Information Technology,7.84,No,Yes,No,Yes,3,Yes,Placed
-smita_agarwal90@gmail.com,Smita Agarwal,Female,CBSE,96.9,Other state Board,77.6,Computer Science in AIML,7.87,Yes,No,Yes,Yes,2,Yes,Not Placed
-samaira_singhania95@gmail.com,Samaira Singhania,Female,ICSE,99.1,CBSE,62.8,Computer Science and Engineering,9.26,Yes,Yes,No,Yes,1,Yes,Not Placed
-rakeshdeyrlo@gmail.com,Rakesh Dey,Male,CBSE,85.5,CBSE,86,Computer Science and Engineering,9.2,Yes,No,No,Yes,2,Yes,Not Placed
-dheeraj_thakur88@gmail.com,Dheeraj Thakur,Male,State Board,98.2,CBSE,83.4,Computer Science and Engineering,8.83,Yes,Yes,Yes,Yes,2,Yes,Not Placed
-dharmikc22@gmail.com,Dharmik Chsuhan Chauhan,Male,State Board,79.4,Diploma,82.1,Production Engineering,7.52,Yes,No,No,Yes,3,Yes,Placed
-suman_sen68@gmail.com,Suman Sen,Male,WBBSE,88,Other state Board,83.2,Computer Science in AIML,7.06,No,No,No,Yes,3,Yes,Placed
-sneha_pal5@gmail.com,Sneha Pal,Female,CBSE,84.3,CBSE,70.9,Civil Engineering,7.34,No,No,No,No,3,Yes,Not Placed
-mukesh_mandal71@gmail.com,Mukesh Mandal,Male,ICSE,84.1,Other state Board,67.9,Computer Science and Engineering,7.12,No,No,Yes,No,1,No,Not Placed
-shreya_shukla17@gmail.com,Shreya Shukla,Female,State Board,97.8,ISE,95,Computer Science and Engineering,8.87,Yes,Yes,No,Yes,4,Yes,Not Placed
-pranab_bhattacharya30@gmail.com,Pranab Bhattacharya,Male,ICSE,83,CBSE,79.8,Computer Science and Engineering,7.13,Yes,No,No,No,4,Yes,Not Placed
-mita_pal33@gmail.com,Mita Pal,Female,CBSE,78.5,Other state Board,62,Mechanical Engineering,7.18,Yes,Yes,No,Yes,1,Yes,Placed
-kunal_bhowmick27@gmail.com,Kunal Bhowmick,Male,WBBSE,95.9,CBSE,73.2,Information Technology,9.14,Yes,Yes,Yes,Yes,1,Yes,Not Placed
-amit_dey53@gmail.com,Amit Dey,Male,WBBSE,75,Other state Board,68.9,Electronics and Communication Engineering,7.58,No,No,No,Yes,4,Yes,Placed
-mita_bardhan92@gmail.com,Mita Bardhan,Female,WBBSE,89.8,CBSE,88.6,Computer Science and Engineering,7.66,Yes,Yes,No,Yes,5,Yes,Placed
-chatterjeenaitik@gmail.com,Naitik Chatterjee,Male,ICSE,93.6,WBCHSE,87.6,Computer Science and Engineering,8.92,Yes,No,No,No,3,No,Not Placed
-debanshu_sen11@gmail.com,Debanshu Sen,Male,CBSE,87.4,ISE,80.2,Computer Science and Engineering,7.17,Yes,Yes,No,No,4,Yes,Not Placed
-meyenka_rao10@gmail.com,Meyenka Rao,Female,WBBSE,96.3,CBSE,78,Electrical Engineering,7.51,No,Yes,No,Yes,1,Yes,Placed
-prakash_singh58@gmail.com,Prakash Singh,Male,State Board,82.4,Other state Board,77.3,Mechanical Engineering,8.97,No,Yes,No,Yes,2,Yes,Placed
-nayanika_choudhury99@gmail.com,Nayanika Choudhury,Female,ICSE,87.6,ISE,88.9,Electrical Engineering,8.79,No,No,No,No,4,Yes,Not Placed
-ayush_kumar_singh91@gmail.com,Ayush Kumar Singh,Male,ICSE,76.9,CBSE,68.2,Electrical Engineering,8.1,Yes,Yes,No,Yes,5,Yes,Placed
-rahul_yadav53@gmail.com,Rahul Yadav,Male,ICSE,72.8,Other state Board,87.2,Electrical Engineering,7.08,No,No,Yes,No,4,Yes,Not Placed
-anisha_mitra38@gmail.com,Anisha Mitra,Female,State Board,98.2,CBSE,68.1,Civil Engineering,7.79,No,Yes,No,Yes,1,Yes,Placed
-shreya_choudhury19@gmail.com,Shreya Choudhury,Female,WBBSE,89.3,CBSE,71.2,Electronics and Communication Engineering,7.78,Yes,Yes,No,Yes,1,Yes,Placed
-kaushik_bhowmick78@gmail.com,Kaushik Bhowmick,Male,CBSE,90.2,CBSE,77.2,Civil Engineering,7.22,No,No,No,Yes,1,Yes,Placed
-naira_patel62@gmail.com,Naira Patel,Female,WBBSE,77.9,CBSE,80.1,Computer Science and Engineering,8.84,Yes,Yes,Yes,No,4,Yes,Not Placed
-mita_yadav64@gmail.com,Mita Yadav,Female,WBBSE,98.5,Other state Board,84.2,Computer Science and Engineering,9.37,Yes,No,No,Yes,4,Yes,Not Placed
-aparna_mishra16@gmail.com,Aparna Mishra,Female,WBBSE,72.2,WBCHSE,93.7,Electronics and Communication Engineering,8.98,Yes,Yes,No,No,5,No,Not Placed
-prakash_sah94@gmail.com,Prakash Sah,Male,ICSE,93.4,ISE,92.2,Computer Science and Engineering,8.85,Yes,No,No,Yes,4,Yes,Placed
-ayushi_shukla9@gmail.com,Ayushi Shukla,Female,ICSE,85.6,ISE,86.4,Computer Science and Engineering,7.8,Yes,Yes,No,Yes,4,No,Not Placed
-nishant_dev95@gmail.com,Nishant Dev,Male,ICSE,94.6,ISE,79.6,Computer Science in Data Science,9.26,Yes,No,No,Yes,3,Yes,Placed
-piyali_mishra80@gmail.com,Piyali Mishra,Female,WBBSE,79.6,CBSE,74.1,Mechanical Engineering,7.01,No,Yes,No,Yes,5,Yes,Placed
-suvankar_kar61@gmail.com,Suvankar Kar,Male,CBSE,73.8,CBSE,73.4,Civil Engineering,8.87,No,Yes,No,Yes,5,No,Not Placed
-arpita_chakraborty84@gmail.com,Arpita Chakraborty,Female,CBSE,77.8,WBCHSE,94.3,Computer Science and Engineering,9,Yes,Yes,No,No,4,No,Not Placed
-vikram_roy16@gmail.com,Vikram Roy,Male,State Board,77.6,WBCHSE,80.9,Information Technology,7.74,No,No,No,Yes,3,Yes,Placed
-anisha_modi58@gmail.com,Anisha Modi,Female,CBSE,71,ISE,67.1,Information Technology,8.48,Yes,Yes,No,Yes,3,Yes,Placed
-ayush_singh43@gmail.com,Ayush Singh,Male,CBSE,94.1,CBSE,66.4,Electronics and Communication Engineering,7.05,No,Yes,Yes,Yes,2,Yes,Not Placed
-shreya_banerjee81@gmail.com,Shreya Banerjee,Female,ICSE,72.1,CBSE,70.2,Computer Science in AIML,7.16,No,No,No,Yes,2,Yes,Placed
-vidya_mishra44@gmail.com,Vidya Mishra,Female,ICSE,82.6,WBCHSE,67.3,Computer Science and Engineering,7.95,Yes,Yes,No,Yes,3,Yes,Placed
-abhijit_ganguly66@gmail.com,Abhijit Ganguly,Male,WBBSE,71.9,WBCHSE,67.4,Electrical and Electronics Engineering,7.88,No,No,No,Yes,1,Yes,Placed
-vidya_iyer45@gmail.com,Vidya Iyer,Female,CBSE,80.5,ISE,74.2,Electronics and Communication Engineering,8.86,Yes,Yes,Yes,Yes,2,Yes,Not Placed
-ayesha_banerjee57@gmail.com,Ayesha Banerjee,Female,State Board,87.2,WBCHSE,80.4,Electronics and Communication Engineering,7.65,Yes,Yes,Yes,No,4,Yes,Not Placed
-ayushi_mazumdar6@gmail.com,Ayushi Mazumdar,Female,CBSE,70.3,Other state Board,79,Computer Science and Engineering,9.34,Yes,Yes,No,Yes,2,Yes,Not Placed
-anupam_pal96@gmail.com,Anupam Pal,Male,State Board,75.2,WBCHSE,82.5,Mechanical Engineering,8.52,No,No,No,No,5,No,Not Placed
-suvankar_bhowmick11@gmail.com,Suvankar Bhowmick,Male,State Board,78.9,ISE,91.2,Electrical Engineering,8.65,No,Yes,No,Yes,1,Yes,Placed
-madhuri_agarwal98@gmail.com,Madhuri Agarwal,Female,WBBSE,86.3,Other state Board,62.6,Computer Science in AIML,7.1,No,Yes,No,Yes,1,Yes,Placed
-suhana_mukherjee68@gmail.com,Suhana Mukherjee,Female,State Board,96.9,CBSE,89.8,Civil Engineering,7.09,Yes,Yes,Yes,Yes,3,Yes,Not Placed
-bharat_mahto54@gmail.com,Bharat Mahto,Male,ICSE,75.9,CBSE,85.4,Computer Science in AIML,7.64,No,Yes,Yes,Yes,4,Yes,Not Placed
-jaya_singhania91@gmail.com,Jaya Singhania,Female,CBSE,99.6,ISE,81.7,Computer Science and Engineering,8.57,Yes,No,No,No,3,No,Not Placed
-anupama_sinha15@gmail.com,Anupama Sinha,Female,CBSE,95,CBSE,92.5,Information Technology,7.69,Yes,Yes,No,No,5,Yes,Not Placed
-piyali_dutta68@gmail.com,Piyali Dutta,Female,CBSE,72,CBSE,65.1,Civil Engineering,7.57,No,Yes,Yes,Yes,1,No,Not Placed
-piyali_chakraborty49@gmail.com,Piyali Chakraborty,Female,ICSE,88.6,WBCHSE,73.2,Computer Science and Engineering,9.23,Yes,Yes,No,Yes,3,Yes,Placed
-gopal_mahto11@gmail.com,Gopal Mahto,Male,CBSE,80.7,Other state Board,76.1,Computer Science in AIML,9.51,Yes,No,Yes,Yes,1,Yes,Not Placed
-amateurz.media@gmail.com,Siddharth,Male,CBSE,95,CBSE,90,IMsc Maths and Computing,8.15,Yes,No,No,Yes,4,Yes,Not Placed
-vidya_shukla46@gmail.com,Vidya Shukla,Female,State Board,92,Other state Board,67.4,Mechanical Engineering,9.35,No,Yes,No,Yes,2,Yes,Placed
-vikas_dev23@gmail.com,Vikas Dev,Male,ICSE,84.4,Other state Board,87.6,Computer Science and Design,8.58,Yes,No,No,Yes,3,Yes,Placed
-arnab_sengupta45@gmail.com,Arnab Sengupta,Male,WBBSE,86.6,WBCHSE,84.4,Computer Science and Design,7.13,No,No,No,Yes,3,Yes,Placed
-rahul.2002.dey@gmail.com,Rahul Dey,Male,CBSE,96.4,CBSE,97,Electronics and Communication and Engineeing,8.91,No,Yes,Yes,No,3,Yes,Not Placed
-ishika_patel12@gmail.com,Ishika Patel,Female,ICSE,76.1,Other state Board,60.4,Electronics and Communication Engineering,8.94,Yes,No,No,Yes,1,Yes,Placed
-nikhil_das17@gmail.com,Nikhil Das,Male,CBSE,75.6,Other state Board,93.8,Electrical Engineering,8.99,Yes,No,No,Yes,4,Yes,Placed
-pranab_mazumdar37@gmail.com,Pranab Mazumdar,Male,WBBSE,99.9,CBSE,86.9,Mechanical Engineering,7.6,No,Yes,No,Yes,4,Yes,Placed
-shubhamsri28101999@gmail.com,Shubham Kumar Srivastava,Male,CBSE,75,CBSE,48,Information Technology,5.75,No,No,Yes,No,3,Yes,Not Placed
-nayana_ghosh91@gmail.com,Nayana Ghosh,Female,State Board,79.6,WBCHSE,61.7,Computer Science in Data Science,7.92,No,Yes,Yes,Yes,4,Yes,Not Placed
-sunil_sinha25@gmail.com,Sunil Sinha,Male,State Board,91.1,ISE,74.2,Chemical Engineering,8.37,No,No,No,Yes,2,Yes,Placed
-piyali_bhat42@gmail.com,Piyali Bhat,Female,CBSE,86.4,ISE,85.1,Electronics and Communication Engineering,9.56,No,No,No,Yes,3,Yes,Not Placed
-sanjana_mazumdar9@gmail.com,Sanjana Mazumdar,Female,State Board,70.4,ISE,87.2,Civil Engineering,9.35,No,No,No,Yes,1,Yes,Placed
-arnav_bhattacharya14@gmail.com,Arnav Bhattacharya,Male,ICSE,86.7,Other state Board,93,Computer Science and Engineering,7.45,Yes,Yes,No,Yes,1,Yes,Placed
-diya_kapoor58@gmail.com,Diya Kapoor,Female,CBSE,72.2,CBSE,74.8,Computer Science in AIML,8.02,Yes,Yes,No,Yes,2,Yes,Placed
-vinayak12031521026@gmail.com,Vinayak kumar,Male,CBSE,75,CBSE,68,Computer Science and Engineering,8.2,Yes,No,Yes,Yes,4,Yes,Placed
-mahii828113@gmail.com,Mahenoor Ahsan,Female,CBSE,95,CBSE,86.4,Information Technology,9.46,Yes,Yes,No,Yes,3,Yes,Not Placed
-aishwarya_kar82@gmail.com,Aishwarya Kar,Female,State Board,88.1,ISE,60.2,Electrical and Electronics Engineering,8.61,No,No,No,Yes,2,Yes,Placed
-anisha_jha88@gmail.com,Anisha Jha,Female,ICSE,94.3,ISE,72.3,Electrical Engineering,8.53,No,Yes,No,Yes,2,Yes,Placed
-mishraravikishan950@gmail.com,Ravi kishan mishra,Male,WBBSE,85,WBCHSE,87,Information Technology,9.3,No,Yes,No,Yes,3,Yes,Placed
-indrajit_mazumdar31@gmail.com,Indrajit Mazumdar,Male,ICSE,82.8,ISE,87.2,Electrical and Electronics Engineering,8.49,No,Yes,No,No,4,Yes,Not Placed
-panthapatim@gmail.com,PANTHA PATIM BHATTACHARYA,Male,WBBSE,64,WBCHSE,68,Computer Science and Design,7.5,No,Yes,No,Yes,4,Yes,Placed
-ishani_singh44@gmail.com,Ishani Singh,Female,ICSE,94,ISE,87.2,Electronics and Communication Engineering,9.31,Yes,No,No,Yes,5,Yes,Placed
-aishwarya_mukherjee12@gmail.com,Aishwarya Mukherjee,Female,WBBSE,71.8,WBCHSE,93.3,Mechanical Engineering,9.01,Yes,No,No,No,2,No,Not Placed
-nikhil_kumar94@gmail.com,Nikhil Kumar,Male,State Board,76,CBSE,60.3,Chemical Engineering,7.84,No,No,Yes,Yes,1,Yes,Not Placed
-bikram_sarkar25@gmail.com,Bikram Sarkar,Male,State Board,72.2,CBSE,77,Information Technology,8.27,Yes,Yes,Yes,Yes,3,Yes,Not Placed
-trisha_singhania81@gmail.com,Trisha Singhania,Female,ICSE,96.5,ISE,86.8,Electrical Engineering,9.29,No,Yes,No,Yes,3,Yes,Placed
-indira_iyer26@gmail.com,Indira Iyer,Female,WBBSE,86.9,Other state Board,87.4,Chemical Engineering,9.02,No,Yes,No,Yes,4,No,Not Placed
-ishika_sarkar75@gmail.com,Ishika Sarkar,Female,ICSE,82.4,Other state Board,88.6,Computer Science and Engineering,9.26,Yes,No,No,No,1,No,Not Placed
-arjun_pathak34@gmail.com,Arjun Pathak,Male,ICSE,74.9,Other state Board,81.5,Information Technology,7.32,Yes,No,No,Yes,5,Yes,Placed
-soma_singhania43@gmail.com,Soma Singhania,Female,WBBSE,75,Other state Board,81.1,Computer Science and Engineering,8.84,Yes,No,Yes,No,2,Yes,Not Placed
-ishika_rajput89@gmail.com,Ishika Rajput,Female,CBSE,87.4,CBSE,81.6,Information Technology,7.03,No,Yes,No,Yes,2,Yes,Not Placed
-tithi_bera57@gmail.com,Tithi Bera,Female,CBSE,73.9,CBSE,63.9,Computer Science in Data Science,7.92,Yes,No,No,Yes,4,Yes,Placed
-suvankar_choudhury10@gmail.com,Suvankar Choudhury,Male,WBBSE,82.1,ISE,72.1,Electronics and Communication Engineering,8.11,Yes,No,No,Yes,4,Yes,Placed
-mukesh_singh99@gmail.com,Mukesh Singh,Male,ICSE,70.1,Other state Board,74.7,Electronics and Communication Engineering,8.46,Yes,Yes,No,No,1,No,Not Placed
-nayanika_kumari75@gmail.com,Nayanika Kumari,Female,State Board,82.7,ISE,92.2,Computer Science and Design,9.38,Yes,No,No,Yes,2,Yes,Placed
-nisha_rao77@gmail.com,Nisha Rao,Female,ICSE,81.9,WBCHSE,84.5,Computer Science and Engineering,8.34,Yes,Yes,Yes,No,1,No,Not Placed
-kavya_chauhan93@gmail.com,Kavya Chauhan,Female,CBSE,88.7,ISE,65.9,Electrical Engineering,7.15,No,No,No,Yes,5,No,Not Placed
-raginigupta523@gmail.com,Ragini Gupta,Female,CBSE,93.5,Other state Board,69.8,Computer Science and Design,8.8,Yes,No,Yes,Yes,3,Yes,Not Placed
-soma_mandal55@gmail.com,Soma Mandal,Female,CBSE,98.9,CBSE,94.1,Electronics and Communication Engineering,9.3,Yes,No,No,No,5,Yes,Not Placed
-suvankar_banerjee38@gmail.com,Suvankar Banerjee,Male,ICSE,77.4,ISE,67.1,Computer Science and Design,8.95,No,Yes,No,No,5,Yes,Not Placed
-dev_dey63@gmail.com,Dev Dey,Male,State Board,94.6,CBSE,88.3,Electronics and Communication Engineering,7.44,Yes,No,No,Yes,1,Yes,Placed
-dev_bhowmick64@gmail.com,Dev Bhowmick,Male,CBSE,82.3,ISE,65.9,Electrical and Electronics Engineering,7.78,No,Yes,No,Yes,4,Yes,Placed
-ananya_modi37@gmail.com,Ananya Modi,Female,CBSE,85.6,WBCHSE,68.2,Computer Science and Engineering,9.2,Yes,Yes,No,No,4,Yes,Not Placed
-debika_bhattacharya89@gmail.com,Debika Bhattacharya,Female,WBBSE,88.2,ISE,71.5,Electronics and Communication Engineering,9.1,Yes,Yes,No,Yes,5,Yes,Placed
-piyali_chatterjee88@gmail.com,Piyali Chatterjee,Female,WBBSE,96.8,Other state Board,94.9,Information Technology,7.82,Yes,No,Yes,No,2,Yes,Not Placed
-tanushree_sharma2@gmail.com,Tanushree Sharma,Female,CBSE,86.7,Other state Board,63.9,Electronics and Communication Engineering,7.29,Yes,Yes,No,Yes,2,No,Not Placed
-susmita_dey53@gmail.com,Susmita Dey,Female,ICSE,72.6,WBCHSE,91.6,Computer Science and Design,8.84,Yes,Yes,No,No,2,Yes,Not Placed
-ishika_dutta71@gmail.com,Ishika Dutta,Female,ICSE,94.7,Other state Board,87.3,Computer Science and Engineering,7.67,Yes,No,No,No,2,No,Not Placed
-amit_mahto68@gmail.com,Amit Mahto,Male,ICSE,99.6,Other state Board,94,Electrical and Electronics Engineering,7.18,No,Yes,Yes,Yes,5,No,Not Placed
-sunidhi_jha16@gmail.com,Sunidhi Jha,Female,WBBSE,81.4,ISE,68.1,Electronics and Communication Engineering,7.57,Yes,Yes,No,Yes,2,No,Not Placed
-rajesh_rana71@gmail.com,Rajesh Rana,Male,ICSE,77.7,CBSE,79.2,Electrical Engineering,7.15,No,No,Yes,No,5,Yes,Not Placed
-debjit_pal41@gmail.com,Debjit Pal,Male,WBBSE,80.2,Other state Board,91.8,Computer Science and Engineering,8.97,Yes,No,No,Yes,5,Yes,Placed
-khusi_kar6@gmail.com,Khusi Kar,Female,WBBSE,89.6,WBCHSE,78,Civil Engineering,8.57,Yes,Yes,No,Yes,1,Yes,Placed
-anupama_singh46@gmail.com,Anupama Singh,Female,CBSE,71.4,ISE,92.3,Computer Science and Engineering,7.42,No,No,Yes,Yes,4,Yes,Not Placed
-krishanuroy733@gmail.com,Krishanu Roy,Male,ICSE,87,CBSE,75,Computer Science and Engineering,9.47,Yes,Yes,No,Yes,3,No,Not Placed
-trisha_mishra98@gmail.com,Trisha Mishra,Female,State Board,84.7,WBCHSE,84.4,Information Technology,7.25,No,Yes,No,No,1,No,Not Placed
-debjit_biswas73@gmail.com,Debjit Biswas,Male,WBBSE,72,CBSE,64.4,Information Technology,8.33,Yes,Yes,No,Yes,5,Yes,Placed
-subhash_mukherjee57@gmail.com,Subhash Mukherjee,Male,ICSE,74.8,ISE,83.9,Computer Science in AIML,9.17,Yes,Yes,No,Yes,2,Yes,Placed
-anupamnandi777@gmail.com,Anupam Nandi,Male,WBBSE,70,WBCHSE,78,Computer Science and Design,8.9,Yes,No,No,Yes,2,Yes,Placed
-soma_kapoor10@gmail.com,Soma Kapoor,Female,WBBSE,75.9,WBCHSE,85.2,Computer Science and Design,8.43,No,Yes,No,Yes,1,Yes,Placed
-anupama_mazumdar80@gmail.com,Anupama Mazumdar,Female,State Board,72.4,CBSE,67.6,Civil Engineering,8.12,No,No,No,Yes,4,Yes,Placed
-indira_pal59@gmail.com,Indira Pal,Female,WBBSE,96.2,CBSE,60.1,Civil Engineering,7.49,No,Yes,No,Yes,1,Yes,Placed
-yjanardhanreddy111@gmail.com,Yeddula Janardhan Reddy,Male,State Board,93,Other state Board,92,Computer Science and Engineering,90,Yes,No,No,No,3,Yes,Not Placed
-ankit_choudhary86@gmail.com,Ankit Choudhary,Male,State Board,70,ISE,94.8,Computer Science in AIML,9.48,Yes,No,No,Yes,5,Yes,Placed
-jaya_pandey78@gmail.com,Jaya Pandey,Female,ICSE,75.6,WBCHSE,68.9,Electrical and Electronics Engineering,8.95,No,No,Yes,Yes,3,No,Not Placed
-tapasgarai739@gmail.com,Tapas Garai,Male,WBBSE,60,WBCHSE,69,Computer Science and Design,9,No,No,No,No,3,No,Placed
-kaushik_mukherjee31@gmail.com,Kaushik Mukherjee,Male,CBSE,85.3,Other state Board,72.8,Mechanical Engineering,8.85,Yes,Yes,No,Yes,2,Yes,Placed
-piyali_bhattacharya78@gmail.com,Piyali Bhattacharya,Female,ICSE,89.2,CBSE,82.7,Computer Science and Design,9.37,Yes,No,No,Yes,1,Yes,Placed
-smita_shukla34@gmail.com,Smita Shukla,Female,WBBSE,94.9,WBCHSE,84.7,Electrical Engineering,8.59,No,No,No,Yes,3,No,Not Placed
-joy_ghosh41@gmail.com,Joy Ghosh,Male,CBSE,87,CBSE,87.8,Electrical Engineering,8.15,Yes,No,Yes,Yes,4,Yes,Not Placed
-kavya_biswas89@gmail.com,Kavya Biswas,Female,CBSE,98.7,CBSE,60.9,Electronics and Communication Engineering,7.19,Yes,No,No,Yes,4,No,Not Placed
-saurabh_choudhary98@gmail.com,Saurabh Choudhary,Male,CBSE,84.6,ISE,79.1,Electrical Engineering,9.44,No,No,No,Yes,1,Yes,Placed
-shubham_choudhary62@gmail.com,Shubham Choudhary,Male,State Board,80.4,CBSE,65.6,Mechanical Engineering,7.97,No,No,No,Yes,4,Yes,Placed
-arnav_pal91@gmail.com,Arnav Pal,Male,State Board,80.3,WBCHSE,74.9,Mechanical Engineering,9.12,Yes,No,Yes,Yes,4,Yes,Not Placed
-riya_mitra24@gmail.com,Riya Mitra,Female,ICSE,95.4,Other state Board,65.8,Civil Engineering,7.42,No,Yes,Yes,Yes,4,Yes,Not Placed
-aparna_srivastava87@gmail.com,Aparna Srivastava,Female,State Board,87.5,Other state Board,78.9,Civil Engineering,8.46,No,No,No,No,4,Yes,Not Placed
-ujjal_mitra69@gmail.com,Ujjal Mitra,Male,ICSE,91.8,WBCHSE,89.5,Information Technology,8.47,Yes,No,No,Yes,2,Yes,Placed
-riya_banerjee31@gmail.com,Riya Banerjee,Female,ICSE,95.4,WBCHSE,93,Civil Engineering,8.58,No,Yes,No,Yes,2,Yes,Placed
-rakesh_thakur16@gmail.com,Rakesh Thakur,Male,State Board,96.4,ISE,83,Mechanical Engineering,7.17,Yes,No,No,Yes,1,Yes,Placed
-meyenka_verma92@gmail.com,Meyenka Verma,Female,State Board,79.6,CBSE,87.4,Electrical and Electronics Engineering,8.54,No,Yes,No,Yes,1,Yes,Not Placed
-shreya_mahato48@gmail.com,Shreya Mahato,Female,State Board,100,WBCHSE,93.1,Electrical and Electronics Engineering,8.34,No,No,No,Yes,4,Yes,Placed
-nayana_gupta76@gmail.com,Nayana Gupta,Female,WBBSE,70.5,CBSE,82.9,Electrical and Electronics Engineering,9.32,Yes,Yes,No,Yes,2,Yes,Placed
-ghoshsubham778@gmail.com,Subham Ghosh,Male,WBBSE,70,WBBSE,80,Computer Science and Engineering,9.1,No,Yes,Yes,Yes,3,Yes,Placed
-rohan_chatterjee73@gmail.com,Rohan Chatterjee,Male,State Board,86.8,CBSE,64.6,Electronics and Communication Engineering,9,Yes,Yes,Yes,Yes,1,No,Not Placed
-gopal_das52@gmail.com,Gopal Das,Male,ICSE,91.4,ISE,92.2,Computer Science and Engineering,7.96,Yes,No,No,Yes,4,Yes,Placed
-rahul_mandal28@gmail.com,Rahul Mandal,Male,CBSE,70.4,ISE,89.3,Electrical Engineering,9.48,No,No,No,Yes,2,Yes,Placed
-anand_mahto91@gmail.com,Anand Mahto,Male,State Board,78.6,CBSE,83.9,Electrical Engineering,7.99,No,Yes,No,Yes,2,Yes,Placed
-debanshu_ganguly14@gmail.com,Debanshu Ganguly,Male,WBBSE,90.5,WBCHSE,61,Computer Science in Data Science,9.39,Yes,Yes,No,Yes,4,Yes,Placed
-debika_choudhary46@gmail.com,Debika Choudhary,Female,CBSE,91.8,Other state Board,78.7,Computer Science in Data Science,7.62,Yes,Yes,No,Yes,1,Yes,Placed
-samik_mahato28@gmail.com,Samik Mahato,Male,WBBSE,91.9,WBCHSE,79.9,Computer Science in AIML,7.13,No,Yes,No,Yes,5,Yes,Placed
-ankita_bhuiyan57@gmail.com,Ankita Bhuiyan,Female,WBBSE,74.1,Other state Board,67.8,Computer Science and Engineering,7.16,No,No,No,Yes,4,Yes,Placed
-jaya_mazumdar74@gmail.com,Jaya Mazumdar,Female,ICSE,96.7,WBCHSE,75.7,Computer Science and Design,8.88,Yes,Yes,No,Yes,3,Yes,Placed
-tanushree_chatterjee8@gmail.com,Tanushree Chatterjee,Female,CBSE,81.2,Other state Board,74.7,Computer Science in Data Science,7.09,No,Yes,Yes,No,3,Yes,Not Placed
-tanushree_ganguly17@gmail.com,Tanushree Ganguly,Female,State Board,80.2,WBCHSE,94.3,Electrical and Electronics Engineering,8.8,No,No,Yes,Yes,5,Yes,Not Placed
-ritika_pandey5@gmail.com,Ritika Pandey,Female,CBSE,99.5,CBSE,90.1,Electrical Engineering,7.37,No,No,No,Yes,1,Yes,Placed
-rohan_rana72@gmail.com,Rohan Rana,Male,CBSE,83.1,CBSE,61.9,Electronics and Communication Engineering,7.37,Yes,No,No,Yes,3,Yes,Placed
-tanushree_mandal24@gmail.com,Tanushree Mandal,Female,CBSE,75.5,WBCHSE,73.8,Computer Science in Data Science,8.55,No,Yes,No,Yes,5,Yes,Placed
-bharat_sharma46@gmail.com,Bharat Sharma,Male,ICSE,76.3,CBSE,81.8,Information Technology,9.07,Yes,Yes,No,Yes,5,Yes,Placed
-arpita_biswas29@gmail.com,Arpita Biswas,Female,ICSE,73,WBCHSE,72.8,Electrical Engineering,8.35,No,No,No,No,4,Yes,Not Placed
-rajesh_mandal97@gmail.com,Rajesh Mandal,Male,State Board,84.2,ISE,78.8,Electronics and Communication Engineering,8.88,Yes,No,No,Yes,3,Yes,Placed
-gopal_sah27@gmail.com,Gopal Sah,Male,CBSE,90.6,CBSE,69.9,Civil Engineering,8.33,No,No,No,Yes,2,Yes,Placed
-shifasayyad032@gmail.com,Sayyed Shifa Imdadulla Hussaini,Female,State Board,94.6,Diploma board - MSBTE,91.5,Electronics Engineering,8.3,Yes,Yes,Yes,No,2,Yes,Not Placed
-susmita_ghosh64@gmail.com,Susmita Ghosh,Female,WBBSE,81.2,WBCHSE,70,Electrical and Electronics Engineering,7.36,No,Yes,No,Yes,2,Yes,Not Placed
-imanimesh1210@gmail.com,Animesh Mahata,Male,CBSE,83,CBSE,88,Computer Science and Engineering,7.9,No,No,No,No,2,No,Placed
-rohan_kumar_rai22@gmail.com,Rohan Kumar Rai,Male,CBSE,92.3,CBSE,91.3,Computer Science in AIML,8.78,Yes,Yes,Yes,No,2,Yes,Not Placed
-kavya_iyer77@gmail.com,Kavya Iyer,Female,WBBSE,96.6,WBCHSE,85,Electrical Engineering,8.54,Yes,No,No,Yes,4,Yes,Placed
-ujjal_bardhan9@gmail.com,Ujjal Bardhan,Male,ICSE,71.3,WBCHSE,91.8,Mechanical Engineering,7.52,No,Yes,No,Yes,1,Yes,Placed
-samikmandal9@gmail.com,SAMIK MANDAL,Male,CBSE,79,CBSE,83,Computer Science and Design,9.21,No,No,No,No,4,Yes,Not Placed
-nayana_gupta89@gmail.com,Nayana Gupta,Female,CBSE,74,WBCHSE,92,Information Technology,7.34,Yes,Yes,No,Yes,4,Yes,Placed
-rajesh_sharma10@gmail.com,Rajesh Sharma,Male,ICSE,95.2,ISE,60.9,Mechanical Engineering,8.89,Yes,Yes,Yes,No,2,No,Not Placed
-dhrubosh@gmail.com,Dhrubojyoti Saha,Male,WBBSE,32,WBCHSE,59.83,Information Technology,9.2,No,No,No,Yes,2,Yes,Not Placed
-urmi_bera90@gmail.com,Urmi Bera,Female,State Board,96.1,CBSE,87.9,Mechanical Engineering,8.34,No,Yes,No,Yes,2,Yes,Placed
-dheeraj_kumar80@gmail.com,Dheeraj Kumar,Male,ICSE,97.5,ISE,62.3,Computer Science in Data Science,8.94,Yes,Yes,No,Yes,4,Yes,Not Placed
-riya_sinha96@gmail.com,Riya Sinha,Female,State Board,89.9,Other state Board,73.1,Electronics and Communication Engineering,7.24,No,No,No,Yes,3,No,Not Placed
-samik_dutta27@gmail.com,Samik Dutta,Male,CBSE,90.2,ISE,76,Information Technology,9.11,Yes,Yes,No,Yes,2,Yes,Placed
-radha_kumari58@gmail.com,Radha Kumari,Female,CBSE,85.4,Other state Board,91.7,Electronics and Communication Engineering,7.87,Yes,Yes,No,Yes,5,Yes,Not Placed
-ritika_choudhury18@gmail.com,Ritika Choudhury,Female,ICSE,92.1,ISE,83,Information Technology,7.49,No,No,No,Yes,2,Yes,Placed
-ipshita_bhattacharya60@gmail.com,Ipshita Bhattacharya,Female,CBSE,74.7,CBSE,93.1,Computer Science and Engineering,8.11,Yes,Yes,No,Yes,3,No,Not Placed
-sunilgarai210@gmail.com,Sunil Garai,Male,WBBSE,47,WBCHSE,88,Electrical Engineering,7.9,Yes,Yes,Yes,Yes,3,Yes,Placed
-pooja_chauhan10@gmail.com,Pooja Chauhan,Female,CBSE,93.4,Other state Board,88,Civil Engineering,8.49,No,No,No,Yes,2,Yes,Placed
-anisha_ghosh17@gmail.com,Anisha Ghosh,Female,State Board,97.5,WBCHSE,60.3,Computer Science and Design,9.29,Yes,No,No,Yes,1,Yes,Placed
-milankamilya5501@gmail.com,Milan Kamilya,Male,WBBSE,91,WBCHSE,87,Computer Science and Design,8.2,Yes,Yes,Yes,Yes,3,No,Placed
-mita_dutta42@gmail.com,Mita Dutta,Female,ICSE,74.3,Other state Board,93.1,Mechanical Engineering,8.36,No,No,No,Yes,5,Yes,Placed
-nishant_mandal90@gmail.com,Nishant Mandal,Male,ICSE,99.8,ISE,80.8,Computer Science in Data Science,8.26,Yes,No,No,Yes,3,Yes,Placed
-debika_mazumdar69@gmail.com,Debika Mazumdar,Female,CBSE,70.7,Other state Board,62.2,Mechanical Engineering,8.2,No,No,No,Yes,5,Yes,Placed
-neeraj_verma56@gmail.com,Neeraj Verma,Male,State Board,95.4,CBSE,79,Chemical Engineering,7.96,Yes,Yes,No,Yes,5,Yes,Placed
-payal_sengupta31@gmail.com,Payal Sengupta,Female,WBBSE,88.4,Other state Board,83.4,Computer Science and Design,7.4,No,Yes,No,Yes,1,Yes,Not Placed
-arnav_sen56@gmail.com,Arnav Sen,Male,WBBSE,89.5,ISE,79.9,Computer Science and Engineering,8.41,Yes,No,Yes,No,5,No,Not Placed
-nikhil_rana90@gmail.com,Nikhil Rana,Male,State Board,72.2,Other state Board,80.5,Chemical Engineering,9.28,No,No,No,No,2,Yes,Not Placed
-anupam_mitra99@gmail.com,Anupam Mitra,Male,WBBSE,87.5,WBCHSE,72.9,Computer Science and Engineering,8.18,Yes,No,No,No,3,No,Not Placed
-prakash_pandey63@gmail.com,Prakash Pandey,Male,State Board,75.2,ISE,85.5,Computer Science in Data Science,8.18,Yes,Yes,No,No,1,No,Not Placed
-abhirup_mazumdar30@gmail.com,Abhirup Mazumdar,Male,ICSE,87.4,WBCHSE,91.4,Electronics and Communication Engineering,8.41,Yes,No,Yes,Yes,1,Yes,Not Placed
-bikram_pal7@gmail.com,Bikram Pal,Male,ICSE,98.3,Other state Board,94.7,Information Technology,8.52,Yes,No,No,Yes,1,Yes,Placed
-rajiv_mandal78@gmail.com,Rajiv Mandal,Male,ICSE,85.2,Other state Board,80.7,Information Technology,7.69,No,No,No,Yes,1,Yes,Placed
-amit_sinha11@gmail.com,Amit Sinha,Male,State Board,86.6,Other state Board,81.3,Electrical and Electronics Engineering,7.15,No,Yes,Yes,No,5,No,Not Placed
-sunil_singh27@gmail.com,Sunil Singh,Male,ICSE,94.1,ISE,62.8,Mechanical Engineering,7.55,No,Yes,No,Yes,5,Yes,Placed
-ranjangiri8500@gmail.com,Ranjan Giri,Male,WBBSE,79.4,WBCHSE,79.4,Information Technology,9.34,No,Yes,No,Yes,2,No,Not Placed
-ujjal_sengupta98@gmail.com,Ujjal Sengupta,Male,WBBSE,95.1,Other state Board,81.7,Computer Science in Data Science,8.08,Yes,No,No,Yes,1,Yes,Not Placed
-sohini_mishra17@gmail.com,Sohini Mishra,Female,ICSE,72,Other state Board,90.5,Electronics and Communication Engineering,9.21,No,Yes,No,Yes,1,Yes,Placed
-jaya_mukherjee94@gmail.com,Jaya Mukherjee,Female,CBSE,84.5,WBCHSE,87.4,Chemical Engineering,7.67,No,No,No,Yes,5,Yes,Placed
-suvankar_dey96@gmail.com,Suvankar Dey,Male,WBBSE,75.7,Other state Board,80.6,Electronics and Communication Engineering,7.35,Yes,No,No,Yes,4,Yes,Placed
-indrajit_chakraborty6@gmail.com,Indrajit Chakraborty,Male,CBSE,91.7,WBCHSE,91.9,Chemical Engineering,7.14,Yes,No,No,No,2,Yes,Not Placed
-sneha_kumari79@gmail.com,Sneha Kumari,Female,ICSE,82.8,Other state Board,89.8,Electrical Engineering,8.45,Yes,Yes,No,Yes,3,Yes,Not Placed
-ananya_choudhary92@gmail.com,Ananya Choudhary,Female,State Board,80.2,CBSE,74.7,Computer Science and Engineering,8.82,Yes,Yes,Yes,No,2,Yes,Not Placed
-debika_chauhan67@gmail.com,Debika Chauhan,Female,ICSE,92.7,CBSE,82.1,Electrical and Electronics Engineering,8.88,Yes,Yes,Yes,No,1,Yes,Not Placed
-mita_bera69@gmail.com,Mita Bera,Female,CBSE,82.9,Other state Board,86.1,Mechanical Engineering,9.23,No,Yes,No,No,4,Yes,Not Placed
-sunil_sharma33@gmail.com,Sunil Sharma,Male,State Board,85.7,Other state Board,63.6,Electrical Engineering,9.02,Yes,No,No,Yes,4,Yes,Placed
-koushiki_das41@gmail.com,Koushiki Das,Female,CBSE,87.5,Other state Board,87.3,Electronics and Communication Engineering,7.23,Yes,Yes,No,No,3,No,Not Placed
-nikhil_chauhan98@gmail.com,Nikhil Chauhan,Male,ICSE,95.6,CBSE,94,Electrical and Electronics Engineering,8.21,No,Yes,No,No,5,No,Not Placed
-amit_das69@gmail.com,Amit Das,Male,ICSE,77.6,ISE,84.6,Mechanical Engineering,9.12,No,Yes,Yes,No,2,No,Not Placed
-kavya_chakraborty27@gmail.com,Kavya Chakraborty,Female,CBSE,79.7,Other state Board,91.5,Computer Science and Design,9.21,Yes,Yes,No,No,2,Yes,Not Placed
-sneha_pandey6@gmail.com,Sneha Pandey,Female,WBBSE,82,Other state Board,75.9,Electrical and Electronics Engineering,7.6,No,Yes,No,Yes,1,Yes,Placed
-anisha_goswami29@gmail.com,Anisha Goswami,Female,WBBSE,70.7,ISE,77.4,Civil Engineering,8.22,No,No,No,No,2,Yes,Not Placed
-smita_bhat82@gmail.com,Smita Bhat,Female,CBSE,77.3,CBSE,91.4,Computer Science in AIML,8.92,Yes,No,No,Yes,3,Yes,Placed
-ayesha_kumari81@gmail.com,Ayesha Kumari,Female,ICSE,81,CBSE,79.8,Electrical Engineering,8.1,No,Yes,No,Yes,2,No,Not Placed
-subhash_paul83@gmail.com,Subhash Paul,Male,CBSE,82.9,ISE,71.8,Mechanical Engineering,7.46,No,No,Yes,Yes,4,No,Not Placed
-arpita_choudhary4@gmail.com,Arpita Choudhary,Female,CBSE,76.2,Other state Board,74.8,Electronics and Communication Engineering,9.04,Yes,No,No,No,4,No,Not Placed
-manish_sah34@gmail.com,Manish Sah,Male,ICSE,83.6,Other state Board,70.9,Computer Science and Engineering,8.95,No,No,No,Yes,2,Yes,Placed
-payal_bardhan57@gmail.com,Payal Bardhan,Female,ICSE,78.7,Other state Board,62.5,Mechanical Engineering,9.16,Yes,Yes,Yes,No,3,No,Not Placed
-debanshu_pal54@gmail.com,Debanshu Pal,Male,State Board,78.6,ISE,86.9,Electrical Engineering,8.23,No,Yes,Yes,Yes,1,Yes,Not Placed
-madhuri_jha17@gmail.com,Madhuri Jha,Female,CBSE,88.1,ISE,82.6,Chemical Engineering,7.1,Yes,Yes,No,Yes,4,Yes,Placed
-jyoti_modi10@gmail.com,Jyoti Modi,Female,State Board,85.5,Other state Board,82.4,Computer Science and Engineering,7.49,No,No,No,Yes,1,Yes,Placed
-chatterjeeraunak2k@gmail.com,Raunak Chatterjee,Male,ICSE,91.8,CISCE,88.5,Computer Science and Engineering,9.48,No,No,Yes,Yes,3,Yes,Placed
-ishika_paul88@gmail.com,Ishika Paul,Female,WBBSE,73.2,WBCHSE,65,Computer Science and Engineering,7.79,No,No,No,Yes,4,Yes,Placed
-ayesha_mukherjee97@gmail.com,Ayesha Mukherjee,Female,CBSE,99.9,ISE,86.4,Electrical Engineering,9.16,Yes,No,No,Yes,3,Yes,Placed
-payal_paul96@gmail.com,Payal Paul,Female,CBSE,77.5,WBCHSE,69,Civil Engineering,8.3,No,No,No,Yes,4,No,Not Placed
-ipshita_mukherjee52@gmail.com,Ipshita Mukherjee,Female,WBBSE,83.7,WBCHSE,91,Electronics and Communication Engineering,7.11,No,Yes,No,No,4,Yes,Not Placed
-ishani_srivastava88@gmail.com,Ishani Srivastava,Female,ICSE,91.7,CBSE,68.9,Computer Science and Design,8.34,No,Yes,No,No,2,No,Not Placed
-debjit_sen92@gmail.com,Debjit Sen,Male,WBBSE,72.4,ISE,80.6,Electronics and Communication Engineering,9.16,Yes,No,No,Yes,2,Yes,Placed
-anjali_bhattacharya70@gmail.com,Anjali Bhattacharya,Female,WBBSE,70.8,Other state Board,65.1,Electrical and Electronics Engineering,8.64,No,Yes,No,Yes,3,No,Not Placed
-sunil_yadav15@gmail.com,Sunil Yadav,Male,ICSE,82.9,ISE,87.3,Electrical and Electronics Engineering,8.49,No,Yes,No,Yes,2,Yes,Placed
-jaya_pandey38@gmail.com,Jaya Pandey,Female,CBSE,84.8,Other state Board,92.8,Electrical Engineering,7.01,No,No,No,Yes,2,Yes,Placed
-bikram_chakraborty20@gmail.com,Bikram Chakraborty,Male,ICSE,99.8,CBSE,63.7,Civil Engineering,9.35,No,Yes,No,No,3,No,Not Placed
-ayesha_dey24@gmail.com,Ayesha Dey,Female,State Board,70.6,Other state Board,70.7,Electronics and Communication Engineering,8.43,Yes,Yes,No,Yes,1,Yes,Placed
-anand_kumar5@gmail.com,Anand Kumar,Male,State Board,91.2,Other state Board,73.3,Electrical and Electronics Engineering,8.49,Yes,No,No,Yes,5,Yes,Placed
-kaushik_kar45@gmail.com,Kaushik Kar,Male,State Board,80.5,CBSE,68.6,Electronics and Communication Engineering,7.28,No,No,Yes,Yes,2,No,Not Placed
-piyali_goswami71@gmail.com,Piyali Goswami,Female,CBSE,70.9,ISE,94.8,Electronics and Communication Engineering,8.8,Yes,No,No,Yes,1,Yes,Not Placed
-mita_mahato27@gmail.com,Mita Mahato,Female,WBBSE,97,WBCHSE,88.6,Chemical Engineering,8.24,No,Yes,No,Yes,4,Yes,Placed
-sneha_rao2@gmail.com,Sneha Rao,Female,CBSE,88.3,Other state Board,78.4,Electronics and Communication Engineering,7.61,Yes,Yes,No,No,5,No,Not Placed
-rohan_mitra72@gmail.com,Rohan Mitra,Male,WBBSE,88.7,WBCHSE,83.6,Computer Science and Engineering,7.27,No,Yes,No,Yes,5,Yes,Placed
-anisha_kar28@gmail.com,Anisha Kar,Female,CBSE,85.3,CBSE,76.4,Electronics and Communication Engineering,9.25,No,No,No,Yes,4,No,Not Placed
-deysumant150@gmail.com,SUMANT KUMAR DEY,Male,State Board,59,Other state Board,55,Electrical Engineering,7.93,No,Yes,Yes,Yes,3,No,Placed
-madhurima_mukherjee53@gmail.com,Madhurima Mukherjee,Female,State Board,87.1,CBSE,87,Computer Science and Design,8.68,Yes,No,No,Yes,5,Yes,Placed
-nikhil_pathak24@gmail.com,Nikhil Pathak,Male,State Board,96.5,Other state Board,80.9,Information Technology,8.27,Yes,No,No,No,1,Yes,Not Placed
-debanshu_ghosh46@gmail.com,Debanshu Ghosh,Male,State Board,91,Other state Board,86.1,Electrical Engineering,8.82,No,Yes,No,Yes,2,Yes,Placed
-indira_roy69@gmail.com,Indira Roy,Female,CBSE,81.8,ISE,63.5,Electronics and Communication Engineering,7.04,Yes,Yes,Yes,No,4,Yes,Not Placed
-unk5659@gmail.com,Utkarsh Nandkumar koshti,Male,State Board,73,Other state Board,84,Computer Science and Engineering,7.12,No,Yes,No,No,3,Yes,Not Placed
-shreya_rajput89@gmail.com,Shreya Rajput,Female,ICSE,76.4,Other state Board,66.2,Computer Science and Engineering,8.66,Yes,Yes,No,No,2,Yes,Not Placed
-trisha_dutta92@gmail.com,Trisha Dutta,Female,ICSE,83.9,WBCHSE,93.5,Chemical Engineering,8.13,No,Yes,Yes,Yes,5,No,Not Placed
-nayana_rao35@gmail.com,Nayana Rao,Female,State Board,90.5,Other state Board,83.1,Computer Science in Data Science,8.27,Yes,No,Yes,No,3,Yes,Not Placed
-debika_rao29@gmail.com,Debika Rao,Female,ICSE,94,CBSE,74.7,Civil Engineering,8.71,No,No,Yes,No,4,No,Not Placed
-nikhil_jha10@gmail.com,Nikhil Jha,Male,CBSE,85.9,ISE,76.9,Electronics and Communication Engineering,8.85,Yes,Yes,No,Yes,5,Yes,Placed
-naira_singhania72@gmail.com,Naira Singhania,Female,WBBSE,98.5,WBCHSE,69.8,Computer Science and Engineering,8.47,No,No,No,Yes,2,Yes,Not Placed
-pawan_dev38@gmail.com,Pawan Dev,Male,ICSE,90.6,Other state Board,64.2,Computer Science and Engineering,7.09,No,Yes,Yes,No,1,No,Not Placed
-simran.sagar08@gmail.com,Simran,Female,CBSE,97.2,CBSE,96.4,Computer Science and Engineering,8.26,Yes,Yes,Yes,Yes,3,Yes,Not Placed
-aparna_banerjee47@gmail.com,Aparna Banerjee,Female,WBBSE,89.2,WBCHSE,89.7,Computer Science and Design,8.33,Yes,No,Yes,No,2,No,Not Placed
-naira_rao84@gmail.com,Naira Rao,Female,State Board,97.6,Other state Board,87.5,Electrical and Electronics Engineering,9.17,Yes,Yes,No,No,1,No,Not Placed
-nikhil_kumar35@gmail.com,Nikhil Kumar,Male,CBSE,84.2,Other state Board,88,Computer Science and Design,8.11,Yes,Yes,No,Yes,4,Yes,Placed
-rina_bera51@gmail.com,Rina Bera,Female,CBSE,82.8,CBSE,61.9,Computer Science in AIML,8.57,Yes,No,No,Yes,2,Yes,Placed
-radha_yadav68@gmail.com,Radha Yadav,Female,CBSE,72.6,Other state Board,62.6,Electronics and Communication Engineering,8.04,No,No,No,Yes,5,Yes,Not Placed
-ananya_ghosh95@gmail.com,Ananya Ghosh,Female,State Board,91,ISE,91.8,Chemical Engineering,7.39,Yes,Yes,No,No,1,Yes,Not Placed
-mandira_kar78@gmail.com,Mandira Kar,Female,CBSE,82.8,ISE,85,Computer Science in Data Science,7.51,No,No,Yes,Yes,4,No,Not Placed
-dipankar_ghosh62@gmail.com,Dipankar Ghosh,Male,State Board,75.4,ISE,83.1,Computer Science in Data Science,7.77,No,Yes,No,Yes,4,Yes,Placed
-vikas_kumar81@gmail.com,Vikas Kumar,Male,ICSE,90.8,ISE,74.7,Electronics and Communication Engineering,7.32,Yes,Yes,No,No,4,No,Not Placed
-mukesh_sharma85@gmail.com,Mukesh Sharma,Male,State Board,93,Other state Board,66.4,Mechanical Engineering,7.4,No,Yes,No,Yes,4,No,Not Placed
-khusi_srivastava13@gmail.com,Khusi Srivastava,Female,ICSE,78.3,ISE,92.5,Computer Science and Engineering,8.01,Yes,Yes,No,No,2,No,Not Placed
-piyali_mitra89@gmail.com,Piyali Mitra,Female,ICSE,74.1,CBSE,80.1,Electronics and Communication Engineering,7.12,Yes,No,No,Yes,4,Yes,Placed
-anand_pandey50@gmail.com,Anand Pandey,Male,State Board,78.4,ISE,81.6,Computer Science and Engineering,8.77,Yes,No,No,Yes,1,Yes,Placed
-urmi_srivastava15@gmail.com,Urmi Srivastava,Female,State Board,70.5,WBCHSE,63.9,Electronics and Communication Engineering,7.54,Yes,Yes,No,Yes,5,Yes,Placed
-abhijit_chakrabarti23@gmail.com,Abhijit Chakrabarti,Male,State Board,86.7,WBCHSE,71.4,Electronics and Communication Engineering,8.82,Yes,Yes,No,Yes,1,Yes,Placed
-rajiv_chakrabarti53@gmail.com,Rajiv Chakrabarti,Male,CBSE,95,CBSE,93.2,Computer Science in AIML,7.21,No,No,No,Yes,4,Yes,Placed
-vikram_banerjee32@gmail.com,Vikram Banerjee,Male,WBBSE,84.5,Other state Board,67,Electrical and Electronics Engineering,7.2,Yes,Yes,Yes,No,5,No,Not Placed
-ayush_mahto90@gmail.com,Ayush Mahto,Male,ICSE,76.8,ISE,82,Computer Science and Engineering,7.79,Yes,No,No,Yes,4,Yes,Placed
-osasish143@gmail.com,Asish Bauri,Male,ICSE,90.8,CBSE,92,Computer Science and Engineering,9.94,Yes,No,Yes,Yes,4,No,Placed
-smita_kapoor11@gmail.com,Smita Kapoor,Female,WBBSE,73.1,CBSE,66.3,Computer Science and Engineering,8.83,Yes,No,No,Yes,2,Yes,Placed
-smita_gupta88@gmail.com,Smita Gupta,Female,CBSE,93.2,CBSE,89,Civil Engineering,8.13,Yes,Yes,No,Yes,5,Yes,Placed
-payal_iyer92@gmail.com,Payal Iyer,Female,State Board,81.8,ISE,74.5,Computer Science and Engineering,9.39,No,No,No,Yes,1,Yes,Placed
-ipshita_kar72@gmail.com,Ipshita Kar,Female,WBBSE,86.5,WBCHSE,93.4,Computer Science and Design,8.8,No,No,Yes,Yes,5,Yes,Not Placed
-anupam_biswas61@gmail.com,Anupam Biswas,Male,CBSE,85.5,Other state Board,62.3,Electrical and Electronics Engineering,7.99,No,No,Yes,Yes,5,Yes,Not Placed
-khusi_chakraborty23@gmail.com,Khusi Chakraborty,Female,WBBSE,86.6,Other state Board,71.3,Information Technology,7.65,Yes,No,No,Yes,3,Yes,Placed
-bharat_pathak45@gmail.com,Bharat Pathak,Male,ICSE,99.2,CBSE,73.4,Information Technology,8.3,Yes,Yes,No,Yes,5,No,Not Placed
-kunal_chakraborty15@gmail.com,Kunal Chakraborty,Male,ICSE,85.1,WBCHSE,87.3,Electronics and Communication Engineering,7.9,Yes,No,Yes,Yes,5,No,Not Placed
-dev_bera78@gmail.com,Dev Bera,Male,WBBSE,98.9,WBCHSE,78.6,Computer Science and Engineering,9.55,No,No,No,Yes,3,Yes,Not Placed
-8348365251.puru@gmail.com,Purnima Rai,Female,ICSE,95,ISC,93,Mechanical Engineering,8.2,Yes,No,Yes,Yes,3,Yes,Placed
-ananya_chatterjee99@gmail.com,Ananya Chatterjee,Female,ICSE,84.3,CBSE,90,Computer Science in Data Science,7,No,Yes,No,Yes,4,Yes,Placed
-anjali_srivastava96@gmail.com,Anjali Srivastava,Female,ICSE,90.3,ISE,83.9,Chemical Engineering,9.36,Yes,Yes,No,Yes,1,Yes,Placed
-tanushree_chakraborty89@gmail.com,Tanushree Chakraborty,Female,State Board,87.3,Other state Board,60.3,Mechanical Engineering,7.17,No,No,No,Yes,2,Yes,Placed
-saurabh_das26@gmail.com,Saurabh Das,Male,ICSE,74.6,Other state Board,88,Computer Science in Data Science,9.08,Yes,No,No,Yes,1,Yes,Placed
-nayanika_shukla32@gmail.com,Nayanika Shukla,Female,WBBSE,82.4,Other state Board,92.5,Mechanical Engineering,9.32,Yes,Yes,No,Yes,4,Yes,Placed
-jyoti_chauhan47@gmail.com,Jyoti Chauhan,Female,ICSE,85,CBSE,87.7,Computer Science and Engineering,8.2,Yes,Yes,No,Yes,5,Yes,Placed
-nisha_pal33@gmail.com,Nisha Pal,Female,CBSE,80.2,WBCHSE,92.4,Mechanical Engineering,8.94,Yes,No,No,Yes,5,Yes,Placed
-dev_bhowmick65@gmail.com,Dev Bhowmick,Male,CBSE,84,ISE,83.9,Information Technology,8.97,Yes,Yes,No,Yes,5,Yes,Placed
-bharat_verma79@gmail.com,Bharat Verma,Male,CBSE,75.9,Other state Board,85.6,Mechanical Engineering,9.59,No,Yes,No,Yes,2,Yes,Placed
-anjali_das43@gmail.com,Anjali Das,Female,ICSE,96,ISE,94,Information Technology,9.25,Yes,No,No,Yes,1,Yes,Placed
-soumikgooo7@gmail.com,Soumik Goswami,Male,CBSE,89.3,CBSE,81.4,Information Technology,9.2,No,Yes,Yes,Yes,2,Yes,Placed
-amit_mahto77@gmail.com,Amit Mahto,Male,CBSE,99,Other state Board,84,Chemical Engineering,7.77,No,Yes,No,Yes,5,Yes,Placed
-rakesh_jha37@gmail.com,Rakesh Jha,Male,CBSE,85.2,CBSE,90.1,Electrical and Electronics Engineering,7,No,Yes,No,Yes,4,Yes,Placed
-its.amitb77@gmail.com,Amit Banerjee,Male,WBBSE,90,WBCHSE,89,Computer Science and Engineering,9.6,Yes,Yes,Yes,Yes,2,Yes,Placed
-khusi_bera5@gmail.com,Khusi Bera,Female,WBBSE,74,WBCHSE,81.4,Electrical Engineering,7.14,No,Yes,Yes,No,5,Yes,Not Placed
-mandira_srivastava55@gmail.com,Mandira Srivastava,Female,CBSE,81.2,CBSE,71.9,Information Technology,7.17,No,No,No,Yes,5,Yes,Placed
-rajesh_thakur98@gmail.com,Rajesh Thakur,Male,CBSE,80.3,Other state Board,87.7,Electronics and Communication Engineering,9.09,Yes,No,No,Yes,5,Yes,Placed
-kaushik_chatterjee32@gmail.com,Kaushik Chatterjee,Male,ICSE,97.6,CBSE,85.1,Civil Engineering,7.11,Yes,No,Yes,No,2,Yes,Not Placed
-shivaninadgire@gmail.com,Nadgire Shivani,Female,State Board,87.2,MSBTE,82.4,Electronic Engineering,7.8,No,Yes,No,No,2,Yes,Not Placed
-abhijit_sarkar27@gmail.com,Abhijit Sarkar,Male,ICSE,89.3,WBCHSE,90.7,Information Technology,9.49,Yes,No,Yes,Yes,5,No,Not Placed
-suvankar_ghosh46@gmail.com,Suvankar Ghosh,Male,State Board,86.7,CBSE,72,Computer Science and Engineering,7.27,Yes,Yes,No,Yes,4,Yes,Placed
-kavya_sengupta20@gmail.com,Kavya Sengupta,Female,CBSE,89,ISE,93.8,Information Technology,8.33,Yes,Yes,Yes,Yes,3,Yes,Not Placed
-rohan_pandey58@gmail.com,Rohan Pandey,Male,State Board,85.2,CBSE,88.2,Computer Science and Engineering,8.02,Yes,No,No,Yes,5,Yes,Placed
-sanjana_sen32@gmail.com,Sanjana Sen,Female,ICSE,88,WBCHSE,64.6,Electronics and Communication Engineering,9.37,Yes,No,Yes,No,2,Yes,Not Placed
-urmi_biswas99@gmail.com,Urmi Biswas,Female,WBBSE,73,WBCHSE,75.9,Electronics and Communication Engineering,7.1,No,Yes,No,Yes,3,Yes,Placed
-trisha_sharma9@gmail.com,Trisha Sharma,Female,State Board,96,ISE,85.6,Electronics and Communication Engineering,7.19,Yes,No,Yes,Yes,3,No,Not Placed
-poulami_chakraborty52@gmail.com,Poulami Chakraborty,Female,WBBSE,78.4,WBCHSE,66.8,Computer Science and Engineering,8.03,No,No,No,No,2,No,Not Placed
-ayesha_kar40@gmail.com,Ayesha Kar,Female,CBSE,71.7,CBSE,74.4,Mechanical Engineering,8.43,No,No,No,Yes,1,No,Not Placed
-nisha_bhowmick6@gmail.com,Nisha Bhowmick,Female,CBSE,93,ISE,62.5,Electrical Engineering,9.01,Yes,No,No,Yes,2,Yes,Placed
-ayush_kumar_rai64@gmail.com,Ayush Kumar Rai,Male,CBSE,72.8,Other state Board,94.7,Electrical Engineering,8.09,No,Yes,No,Yes,3,Yes,Placed
-manoj_mitra16@gmail.com,Manoj Mitra,Male,State Board,96.8,Other state Board,65.8,Electrical Engineering,7.58,No,Yes,No,No,2,No,Not Placed
-khusi_srivastava38@gmail.com,Khusi Srivastava,Female,ICSE,93.2,CBSE,82,Computer Science in AIML,8.4,Yes,Yes,Yes,No,1,No,Not Placed
-urmi_sarkar87@gmail.com,Urmi Sarkar,Female,ICSE,84.7,CBSE,67.1,Electronics and Communication Engineering,8.62,Yes,No,No,No,2,No,Not Placed
-indira_kumari47@gmail.com,Indira Kumari,Female,WBBSE,70.1,Other state Board,82.2,Computer Science in Data Science,8.11,No,Yes,Yes,No,3,Yes,Not Placed
-dipankar_mahato14@gmail.com,Dipankar Mahato,Male,CBSE,92.8,Other state Board,68.2,Electronics and Communication Engineering,8.24,Yes,Yes,No,Yes,3,Yes,Placed
-niloy_dutta68@gmail.com,Niloy Dutta,Male,ICSE,97.2,CBSE,78.6,Electrical and Electronics Engineering,8.69,Yes,No,Yes,No,1,No,Not Placed
-joy_banerjee17@gmail.com,Joy Banerjee,Male,ICSE,99.5,CBSE,77.5,Electronics and Communication Engineering,7.07,Yes,Yes,Yes,Yes,2,No,Not Placed
-ishika_kapoor91@gmail.com,Ishika Kapoor,Female,ICSE,99.3,ISE,73.8,Computer Science in AIML,7.56,No,Yes,No,Yes,3,Yes,Placed
-anand_kumar55@gmail.com,Anand Kumar,Male,State Board,81.7,ISE,84.4,Computer Science and Engineering,7.75,Yes,Yes,Yes,Yes,4,No,Not Placed
-sanjana_kumari17@gmail.com,Sanjana Kumari,Female,State Board,99.5,ISE,83.2,Civil Engineering,7.68,No,No,Yes,Yes,5,No,Not Placed
-madhuri_srivastava5@gmail.com,Madhuri Srivastava,Female,ICSE,77.1,WBCHSE,66.9,Information Technology,7.16,No,Yes,No,No,5,Yes,Not Placed
-dheeraj_mandal25@gmail.com,Dheeraj Mandal,Male,State Board,80.8,CBSE,85.3,Mechanical Engineering,8.94,No,No,Yes,Yes,1,Yes,Not Placed
-payal_shukla62@gmail.com,Payal Shukla,Female,CBSE,88.5,WBCHSE,81.8,Civil Engineering,9.21,Yes,Yes,Yes,No,5,Yes,Not Placed
-rakesh_das12@gmail.com,Rakesh Das,Male,State Board,90.8,CBSE,62.2,Computer Science and Engineering,7.67,Yes,Yes,No,Yes,4,No,Not Placed
-diya_patel47@gmail.com,Diya Patel,Female,State Board,83.1,ISE,74.5,Computer Science and Engineering,9.39,Yes,Yes,No,Yes,2,Yes,Placed
-naira_chauhan54@gmail.com,Naira Chauhan,Female,CBSE,90,ISE,86.4,Computer Science and Engineering,7.94,Yes,No,No,Yes,3,Yes,Placed
-indira_pandey90@gmail.com,Indira Pandey,Female,CBSE,71.5,CBSE,70.3,Computer Science and Engineering,8.31,No,No,No,Yes,2,Yes,Placed
-amit_bera15@gmail.com,Amit Bera,Male,WBBSE,95.6,ISE,68.7,Information Technology,9.26,Yes,No,No,Yes,2,Yes,Placed
-chandan_verma70@gmail.com,Chandan Verma,Male,ICSE,94.7,CBSE,67.2,Information Technology,9.47,Yes,No,No,Yes,2,Yes,Not Placed
-indrajit_bhattacharya59@gmail.com,Indrajit Bhattacharya,Male,CBSE,80.5,WBCHSE,83.1,Computer Science and Engineering,7.41,Yes,No,No,Yes,4,No,Not Placed
-payal_rao14@gmail.com,Payal Rao,Female,ICSE,80.8,ISE,73.5,Computer Science in AIML,8.16,Yes,Yes,Yes,Yes,3,Yes,Not Placed
-swastikbose98@gmail.com,Swastik Bose,Male,WBBSE,92.5,WBCHSE,93,Electronics and Communication and Engineeing,8.25,Yes,No,No,Yes,3,Yes,Not Placed
-dheeraj_kumar39@gmail.com,Dheeraj Kumar,Male,State Board,90.1,CBSE,92.3,Electronics and Communication Engineering,7.99,Yes,No,No,Yes,2,Yes,Placed
-samaira_rao81@gmail.com,Samaira Rao,Female,WBBSE,86.6,WBCHSE,76,Information Technology,8.17,Yes,No,No,Yes,5,Yes,Placed
-alok_das8@gmail.com,Alok Das,Male,CBSE,83.2,CBSE,69.5,Chemical Engineering,7.12,No,Yes,No,No,5,No,Not Placed
-shadwrsi9074@gmail.com,Shad Warsi,Male,State Board,57.7,Other state Board,56.7,Computer Science and Engineering,8.26,No,Yes,No,Yes,3,Yes,Not Placed
-neeraj_thakur10@gmail.com,Neeraj Thakur,Male,State Board,77.1,ISE,92.7,Chemical Engineering,9.05,Yes,Yes,No,Yes,2,No,Not Placed
-koushiki_ghosh50@gmail.com,Koushiki Ghosh,Female,State Board,91.1,CBSE,91.1,Electrical and Electronics Engineering,8.08,Yes,Yes,Yes,No,4,No,Not Placed
-neeraj_chauhan7@gmail.com,Neeraj Chauhan,Male,State Board,95.8,Other state Board,72.1,Electronics and Communication Engineering,9.37,No,No,No,Yes,1,Yes,Placed
-ankita_mazumdar91@gmail.com,Ankita Mazumdar,Female,CBSE,71.6,Other state Board,63.3,Information Technology,9.36,Yes,Yes,No,Yes,1,Yes,Placed
-suman_chatterjee69@gmail.com,Suman Chatterjee,Male,State Board,99.7,ISE,93.3,Chemical Engineering,8.3,Yes,Yes,Yes,No,2,No,Not Placed
-debika_mandal86@gmail.com,Debika Mandal,Female,State Board,79.9,ISE,79,Computer Science and Engineering,9.14,Yes,No,Yes,Yes,1,No,Not Placed
-kumarsumit84344@gmail.com,Sumit kumar,Male,ICSE,75,CBSE,70,Electronics and Communication and Engineeing,8,No,Yes,Yes,Yes,2,Yes,Placed
-aparna_agarwal62@gmail.com,Aparna Agarwal,Female,ICSE,86.3,Other state Board,85.1,Electrical Engineering,9.13,Yes,Yes,No,Yes,1,Yes,Placed
-adarsh_rana13@gmail.com,Adarsh Rana,Male,ICSE,82,Other state Board,71.7,Chemical Engineering,8.15,No,Yes,Yes,No,5,No,Not Placed
-anupama_verma63@gmail.com,Anupama Verma,Female,CBSE,82.4,Other state Board,72.3,Computer Science and Engineering,7.59,Yes,No,No,Yes,3,Yes,Not Placed
-nikhil_kumar_rai87@gmail.com,Nikhil Kumar Rai,Male,CBSE,79.8,CBSE,88.8,Electronics and Communication Engineering,9.07,Yes,Yes,No,Yes,5,Yes,Placed
-harshpatel28.ait@gmail.com,Harsh Patel,Male,State Board,61,Other state Board,53,Computer Science and Engineering,7.1,Yes,Yes,Yes,Yes,3,Yes,Not Placed
-naira_kapoor2@gmail.com,Naira Kapoor,Female,CBSE,71.2,Other state Board,81.1,Electronics and Communication Engineering,8.68,Yes,Yes,No,Yes,3,Yes,Placed
-abhirup_chatterjee68@gmail.com,Abhirup Chatterjee,Male,State Board,80.4,WBCHSE,92.1,Electrical Engineering,8.66,No,Yes,No,Yes,1,Yes,Placed
-suhana_sharma95@gmail.com,Suhana Sharma,Female,CBSE,72,ISE,84.8,Computer Science in Data Science,7.5,Yes,No,Yes,No,3,Yes,Not Placed
-indrajit_bera80@gmail.com,Indrajit Bera,Male,CBSE,72.2,Other state Board,88.6,Electronics and Communication Engineering,7.85,Yes,Yes,No,Yes,5,Yes,Placed
-piyali_sharma62@gmail.com,Piyali Sharma,Female,CBSE,88.2,CBSE,78.1,Computer Science in Data Science,7.78,Yes,Yes,Yes,Yes,4,Yes,Not Placed
-suvankar_sen65@gmail.com,Suvankar Sen,Male,State Board,73.8,ISE,77.6,Electrical and Electronics Engineering,8.22,No,Yes,Yes,No,2,Yes,Not Placed
-diya_mandal77@gmail.com,Diya Mandal,Female,ICSE,86.8,CBSE,71.6,Information Technology,8.15,Yes,Yes,No,No,2,No,Not Placed
-ananya_ganguly41@gmail.com,Ananya Ganguly,Female,CBSE,78.8,CBSE,60.9,Electronics and Communication Engineering,8.06,Yes,Yes,No,No,1,No,Not Placed
-shubham_kumar27@gmail.com,Shubham Kumar,Male,State Board,96.5,ISE,78.4,Computer Science and Engineering,7.71,Yes,Yes,No,Yes,1,No,Not Placed
-vikas_thakur55@gmail.com,Vikas Thakur,Male,State Board,88.8,CBSE,69.3,Computer Science and Engineering,8.02,No,Yes,No,Yes,4,Yes,Placed
-manoj_mukherjee81@gmail.com,Manoj Mukherjee,Male,WBBSE,85.4,WBCHSE,75.6,Electrical Engineering,9.16,Yes,No,No,Yes,1,Yes,Placed
-payal_yadav62@gmail.com,Payal Yadav,Female,ICSE,78.2,ISE,74.7,Computer Science and Engineering,8.65,Yes,Yes,No,Yes,5,Yes,Placed
-mousumi_mahato5@gmail.com,Mousumi Mahato,Female,State Board,80,Other state Board,62.3,Computer Science in Data Science,8.68,No,No,No,Yes,2,Yes,Placed
-rina_paul51@gmail.com,Rina Paul,Female,WBBSE,80.8,WBCHSE,85.4,Civil Engineering,8.41,Yes,Yes,No,No,3,Yes,Not Placed
-nisha_yadav90@gmail.com,Nisha Yadav,Female,WBBSE,97.9,WBCHSE,63.1,Chemical Engineering,9.3,Yes,Yes,Yes,Yes,1,No,Not Placed
-joy_das44@gmail.com,Joy Das,Male,CBSE,87.5,WBCHSE,77.8,Mechanical Engineering,8.01,No,No,Yes,Yes,5,Yes,Not Placed
-manish_sharma45@gmail.com,Manish Sharma,Male,ICSE,79.9,ISE,82.9,Computer Science and Engineering,8.45,Yes,Yes,No,Yes,1,Yes,Placed
-urmi_mahato93@gmail.com,Urmi Mahato,Female,ICSE,86.2,CBSE,76.8,Electrical and Electronics Engineering,9.12,No,Yes,No,No,2,Yes,Not Placed
-samik_nandi60@gmail.com,Samik Nandi,Male,ICSE,79.6,ISE,68,Electrical and Electronics Engineering,7.92,No,No,Yes,No,4,Yes,Not Placed
-arpita_dey16@gmail.com,Arpita Dey,Female,WBBSE,98.4,Other state Board,72.6,Computer Science in AIML,9.24,Yes,No,No,Yes,1,Yes,Placed
-susmita_kapoor60@gmail.com,Susmita Kapoor,Female,ICSE,94.1,WBCHSE,68.6,Computer Science in AIML,8.99,Yes,Yes,Yes,Yes,2,No,Not Placed
-trisha_modi81@gmail.com,Trisha Modi,Female,WBBSE,70,ISE,66.3,Electrical Engineering,7.24,No,No,No,Yes,4,Yes,Placed
-joy_banerjee15@gmail.com,Joy Banerjee,Male,State Board,85.7,CBSE,63.1,Civil Engineering,7.14,No,Yes,No,No,5,No,Not Placed
-smita_bhat61@gmail.com,Smita Bhat,Female,WBBSE,84.3,ISE,86.1,Mechanical Engineering,8.35,No,Yes,No,Yes,3,Yes,Placed
-madhurima_pal56@gmail.com,Madhurima Pal,Female,State Board,97.5,ISE,69.4,Information Technology,8.93,Yes,Yes,No,Yes,2,Yes,Not Placed
-rakesh_kumar_singh33@gmail.com,Rakesh Kumar Singh,Male,ICSE,91.1,CBSE,65.6,Computer Science and Engineering,8.8,Yes,Yes,No,Yes,1,Yes,Placed
-rina_mitra18@gmail.com,Rina Mitra,Female,WBBSE,83.7,CBSE,79.9,Computer Science in Data Science,9.29,Yes,Yes,Yes,No,2,No,Not Placed
-soma_mitra76@gmail.com,Soma Mitra,Female,WBBSE,73.6,CBSE,84.2,Computer Science and Engineering,8.4,Yes,No,No,Yes,2,Yes,Placed
-samik_kar21@gmail.com,Samik Kar,Male,CBSE,99.9,CBSE,65.1,Computer Science in AIML,9.11,Yes,Yes,No,Yes,2,Yes,Placed
-tapan_sengupta32@gmail.com,Tapan Sengupta,Male,CBSE,71.1,CBSE,81.1,Computer Science in AIML,7.65,Yes,Yes,No,Yes,2,Yes,Placed
-vidya_mahato8@gmail.com,Vidya Mahato,Female,State Board,94.3,Other state Board,90.9,Computer Science in Data Science,7.86,Yes,Yes,No,Yes,4,Yes,Placed
-debika_bhowmick14@gmail.com,Debika Bhowmick,Female,WBBSE,74.4,WBCHSE,82.3,Civil Engineering,7.22,No,Yes,No,Yes,3,Yes,Placed
-nshreds18@gmail.com,Shraddha nigam,Female,State Board,82,Other state Board,83,Computer Science and Engineering,6.5,Yes,Yes,No,Yes,4,Yes,Not Placed
-rajesh_sinha26@gmail.com,Rajesh Sinha,Male,State Board,83.5,ISE,72.5,Computer Science and Engineering,8.62,Yes,No,No,Yes,5,Yes,Placed
-ghoshbiswajit2406@gmail.com,Biswajit Ghosh,Male,WBBSE,88.6,WBCHSE,82.6,Information Technology,9.32,Yes,No,No,Yes,3,Yes,Placed
-jaykumarjk3235@gmail.com,Jay Kumar Ray,Male,State Board,73.8,BSEB,70.3,Electrical Engineering,8.89,Yes,Yes,No,Yes,4,Yes,Not Placed
-shubham_kumar_singh61@gmail.com,Shubham Kumar Singh,Male,ICSE,98.8,ISE,85.3,Electronics and Communication Engineering,7.16,Yes,No,No,Yes,2,Yes,Placed
-trisha_singh54@gmail.com,Trisha Singh,Female,State Board,83.9,CBSE,74.9,Electronics and Communication Engineering,8.15,No,Yes,No,Yes,2,Yes,Placed
-suvankar_dey42@gmail.com,Suvankar Dey,Male,ICSE,78.7,Other state Board,60.9,Electronics and Communication Engineering,7.5,Yes,Yes,No,Yes,2,Yes,Placed
-utpalmajee91@gmail.com,UTPAL MAJEE,Male,CBSE,45,WBCHSE,45,Computer Science and Engineering,5.5,No,Yes,No,Yes,3,Yes,Placed
-sankaranimesh1234@gmail.com,Sankar Nayak,Male,WBBSE,70,WBCHSE,82,Computer Science and Design,8.3,Yes,No,No,yes,3,Yess,Placed
-arnab_choudhury87@gmail.com,Arnab Choudhury,Male,WBBSE,82.3,ISE,68.1,Chemical Engineering,8.26,No,No,Yes,Yes,2,Yes,Not Placed
-manoj_bhowmick98@gmail.com,Manoj Bhowmick,Male,ICSE,82.4,ISE,82.9,Information Technology,8.06,Yes,No,No,No,5,Yes,Not Placed
-tithi_goswami59@gmail.com,Tithi Goswami,Female,CBSE,74.8,ISE,84.9,Computer Science and Engineering,7.42,Yes,No,No,Yes,1,Yes,Placed
-samir_roy25@gmail.com,Samir Roy,Male,CBSE,94.6,ISE,84.9,Computer Science in Data Science,8.68,Yes,Yes,Yes,No,2,Yes,Not Placed
-jitesh_sinha49@gmail.com,Jitesh Sinha,Male,CBSE,86.4,ISE,72.3,Electronics and Communication Engineering,9.35,Yes,Yes,Yes,No,5,No,Not Placed
-mita_dutta21@gmail.com,Mita Dutta,Female,WBBSE,88.6,WBCHSE,65.8,Computer Science in AIML,7.37,No,Yes,Yes,No,2,Yes,Not Placed
-adarsh_das18@gmail.com,Adarsh Das,Male,State Board,97.8,ISE,94.2,Civil Engineering,9.19,Yes,No,No,Yes,5,Yes,Placed
-mandira_kapoor63@gmail.com,Mandira Kapoor,Female,ICSE,88.8,CBSE,89.1,Computer Science and Engineering,8.34,Yes,Yes,No,No,1,Yes,Not Placed
-smita_yadav92@gmail.com,Smita Yadav,Female,State Board,86.7,CBSE,86.7,Computer Science and Engineering,7.77,Yes,No,No,Yes,2,Yes,Placed
-manish_sinha90@gmail.com,Manish Sinha,Male,CBSE,83.5,CBSE,61.1,Electrical Engineering,8.85,No,No,No,Yes,1,Yes,Placed
-pawan_sah12@gmail.com,Pawan Sah,Male,ICSE,99.8,ISE,75.4,Electronics and Communication Engineering,7.89,Yes,Yes,Yes,Yes,5,Yes,Not Placed
-abhijit_chatterjee6@gmail.com,Abhijit Chatterjee,Male,WBBSE,94.2,CBSE,90,Electronics and Communication Engineering,7.89,Yes,No,No,No,3,Yes,Not Placed
+Gender,10th marks,12th marks,Stream,Cgpa,Internships(Y/N),Backlogs,Projects,Technical Score,status
+Female,69.38248221336825,91.86487016630747,ME,6.860499622081722,No,2,1,34.035330753931746,Not Placed
+Female,70.26941230096976,96.72386066292347,ME,7.951724458953341,No,2,4,61.08306244415421,Not Placed
+Male,78.57811760811316,75.26759442486433,CSE,8.805600654046358,No,1,0,85.47649743740433,Placed
+Female,87.77108509104873,65.62339759990172,CSE,7.63995716869072,No,2,2,93.66182276560694,Not Placed
+Male,80.26869189308377,93.05882806661202,CSE,8.856370173821555,No,0,0,77.65291250723399,Not Placed
+Female,61.30952785815,96.84509362022763,ME,7.582040222794271,Yes,3,3,90.44832657601816,Not Placed
+Male,74.26253650094488,70.85977510998306,CSE,8.032202645600526,No,2,2,94.31142974244642,Not Placed
+Female,87.57722560235807,93.98919715932082,ME,7.334128938582176,Yes,2,3,86.46125396283938,Not Placed
+Female,97.85267208629875,62.25991961695667,CSE,7.4761741748518675,Yes,3,2,51.832935600299635,Not Placed
+Female,61.17002188709702,96.91825561084238,CSE,9.668721730285391,No,3,5,78.14054297013925,Not Placed
+Male,86.31623239841011,65.10853491750863,IT,8.400116247044652,Yes,0,2,44.74934747070422,Not Placed
+Male,60.33680483431182,97.91719251591516,CE,9.97591888701999,No,1,2,81.6508662993071,Placed
+Male,88.13809301423373,65.42831091743187,CE,9.716909628064577,Yes,0,0,89.21450077744126,Placed
+Male,63.3669791308478,78.529856767354,IT,6.761505073561844,Yes,2,5,51.429613861571525,Not Placed
+Male,84.0194135212372,81.92754524955261,CE,5.825424138660724,Yes,2,5,50.96959745677117,Not Placed
+Female,79.02372218667588,90.19159069064845,CE,7.6521694788785055,No,1,4,76.67980947099875,Placed
+Female,92.80922914056606,75.24962892034907,ME,9.681526241343342,No,2,5,52.50469908735174,Not Placed
+Female,68.589101917008,84.33808960268207,CSE,5.651511301962428,No,2,0,83.17280000898575,Not Placed
+Female,87.35207522747807,92.94347179737159,IT,8.136391548040837,Yes,3,3,77.78320548563818,Not Placed
+Female,87.13020003525041,91.25632218659948,CE,6.804865535246241,No,3,4,94.17541834916346,Not Placed
+Male,75.25493397470136,66.02771749200237,IT,6.102227633498619,Yes,2,0,82.405166388834,Not Placed
+Female,60.00511833417044,79.42290729101472,IT,8.717674234828078,No,0,1,62.68775999745275,Not Placed
+Female,95.73704321797456,63.143187537925435,CE,5.958515746297061,No,2,0,88.98983315123884,Not Placed
+Female,89.97943392748827,93.89114150280793,CSE,7.400730349829376,No,3,3,77.25980428047677,Not Placed
+Female,61.60708647046189,81.455903937896,CE,8.347203454368703,Yes,1,4,79.91322354440231,Placed
+Male,96.70980519488973,88.91943602952975,CSE,8.54248704136485,Yes,0,4,63.27846254950516,Placed
+Male,97.97971743219397,63.98270646990774,IT,9.805599169679287,No,0,2,62.03897236115058,Not Placed
+Female,74.01087249286222,74.05290372751271,CE,9.365305084392833,No,0,4,59.10582504812151,Not Placed
+Male,74.10414136185818,93.05100071390501,IT,9.460705320646683,No,0,4,32.51570724450873,Not Placed
+Female,95.3706772980266,64.7775222217046,ME,6.920323046935075,Yes,0,3,79.92448182978325,Placed
+Female,93.82817010017462,70.92156466569203,ME,8.500899972479147,Yes,1,1,68.06640095063662,Placed
+Female,86.14568886576853,69.19177757505754,IT,7.018054960460917,No,3,5,58.95498724430447,Not Placed
+Female,75.36301039568502,80.17563177965957,IT,6.7000383849789,Yes,0,3,32.91597728678777,Not Placed
+Female,88.96774321683367,77.28691780128831,CE,8.978146668442518,No,1,3,38.788515033385735,Not Placed
+Female,89.26601204676965,90.67191041986554,IT,6.317826358192583,No,3,4,53.92625938445278,Not Placed
+Male,68.48400864919746,84.3906784365035,CE,5.5060913157196065,No,3,4,98.193611067145,Not Placed
+Male,60.896608656530105,94.1453029776439,CSE,8.227659542200659,No,0,5,40.662944996387516,Not Placed
+Male,86.9851464083265,95.62038065024419,IT,7.6783468136959065,Yes,2,3,34.049111461301244,Not Placed
+Male,95.82352412557626,89.83720263963951,CE,8.429308008031327,Yes,3,3,84.38496072290579,Not Placed
+Female,87.5738336104278,83.54991371445739,CSE,8.300861387046986,Yes,0,2,40.28738967117468,Not Placed
+Male,84.16627887222168,74.75029683282582,CE,8.392685116600784,Yes,2,3,53.61380987119165,Not Placed
+Male,80.47489434350553,62.30389919052579,IT,5.779914517741163,No,0,3,74.16452531604143,Not Placed
+Female,65.10244433428647,96.40149660015729,ME,8.92489737710744,No,1,4,97.36171420914489,Placed
+Male,95.28909090656555,88.91246509155084,IT,7.959597139145327,No,1,2,41.60248458741091,Not Placed
+Female,67.94904768550126,61.89920308906779,CSE,6.116495783741521,Yes,1,2,57.43008074863552,Not Placed
+Male,64.13794593127949,84.18846857662746,CE,9.97668682284678,Yes,1,5,69.86778456969725,Placed
+Female,76.6058436552936,82.55531554439386,ME,6.462806674097066,No,1,3,88.05741388709588,Not Placed
+Male,73.49156014517442,86.53582397464777,ME,7.846568374246624,Yes,2,4,89.79553344386076,Not Placed
+Male,71.77999761252799,68.81751349824202,ME,8.499702155709787,No,3,1,84.01388376850254,Not Placed
+Female,60.459918437492085,60.3434618250131,CSE,7.1964349386682605,No,2,2,33.22397139329695,Not Placed
+Male,66.75974871386289,79.55797745061469,CE,5.929296747909448,No,0,4,63.66231026221063,Not Placed
+Male,64.50309969672976,70.97762767854829,CE,9.95538869230367,Yes,0,0,83.27055464467745,Placed
+Female,74.91341107672024,88.66206898718687,ME,5.759663177871545,No,1,5,73.54276936596956,Not Placed
+Male,74.6802805769057,81.8059676559715,IT,8.454839831685442,No,1,1,94.2767360672806,Placed
+Female,79.2264004939274,68.39240575259434,CSE,6.529124842301641,Yes,1,1,77.56849489937359,Placed
+Female,76.39246465341483,87.32807608389362,CE,8.110399756012546,No,1,2,49.774724618099654,Not Placed
+Female,93.97558349626352,95.9653474997154,CE,7.304237931128711,Yes,2,1,92.22211968025408,Not Placed
+Male,67.76951367007905,69.7017449071494,CE,6.9920411458023715,Yes,3,5,34.9810799621403,Not Placed
+Female,95.74981177911809,79.26297664254972,ME,5.927738704897117,Yes,2,4,80.87244569177376,Not Placed
+Male,73.39889902529661,91.3419385385559,IT,9.441473875826757,No,3,3,59.76597298063857,Not Placed
+Female,64.85893844645187,89.09077651960271,CSE,8.156939904202119,No,1,4,80.61897917177879,Placed
+Female,67.7359783467617,60.38344305418294,CE,6.536874979528075,No,2,3,97.67918498594997,Not Placed
+Female,85.19579328853006,88.19206042443118,CSE,8.91581022666269,Yes,1,5,87.26187243970851,Placed
+Female,70.31466595009961,64.76354608011066,CE,9.558730885371176,Yes,2,5,57.523664071954556,Not Placed
+Male,85.11854166139817,62.98132102005071,ME,8.892233652561483,No,1,5,70.86409463598781,Placed
+Male,61.61204733186189,70.08239322710774,CE,9.771438820917304,Yes,2,4,69.20641882103769,Not Placed
+Male,86.9226085047263,66.53939071321986,CSE,9.698161881563525,Yes,3,2,86.2462675904454,Not Placed
+Female,64.75475977138639,92.31792136091184,CSE,6.733322152039859,Yes,0,0,54.17393665714215,Not Placed
+Female,97.18396779878734,92.54841450242122,ME,8.941236136643257,Yes,0,0,51.8388814228493,Not Placed
+Female,79.25356066134434,74.71501630476764,CE,7.229597673358607,No,3,2,30.799258841785154,Not Placed
+Male,96.86977016959017,76.63113046963173,CE,8.015412853448982,No,1,0,67.40033863255731,Not Placed
+Male,76.32464585589045,71.73570811227896,CE,9.381882120171305,No,3,5,68.68949530029818,Not Placed
+Female,65.00517108600556,92.88123883853868,CE,8.547185856059532,Yes,1,5,77.08920959462286,Placed
+Male,69.51778015411496,83.74521578506597,ME,9.328061172721808,Yes,2,1,47.32570511982884,Not Placed
+Female,67.10274874312154,60.752235017195666,CSE,6.8804946978496355,No,0,5,53.38349759681385,Not Placed
+Male,75.37204065180705,62.59742161177843,ME,7.101346416666451,No,0,2,77.42786618524738,Not Placed
+Female,67.80525352216512,74.49475957370584,CSE,8.387804787843512,Yes,2,5,84.66971255304941,Not Placed
+Male,82.84190243372447,97.63374771593813,CE,6.7434359880963415,No,0,1,61.50815685323677,Not Placed
+Male,63.91861177150688,80.81581838656614,CE,7.316204510627161,Yes,1,3,59.59100458257526,Placed
+Female,75.10927038500908,70.04249800002829,IT,7.825554726076712,Yes,1,3,68.47243879715296,Placed
+Male,65.46979271574477,82.62366712782696,ME,5.8401262623433015,Yes,2,0,36.44468902577328,Not Placed
+Male,83.69865357503011,84.64318316451015,IT,8.387343589723095,Yes,1,2,77.32184016367833,Placed
+Male,83.18028184902046,71.89048098011864,CE,6.622859650772119,No,3,0,38.19462289969181,Not Placed
+Female,83.2658097289501,68.09723033002271,ME,9.473472211733979,No,1,3,79.07977160922316,Placed
+Male,75.50976425293453,60.58500588426972,CE,9.713202127359487,No,2,0,45.43385854313129,Not Placed
+Male,83.45546279225158,88.09751273358985,IT,9.896531294975246,No,1,2,60.350795484283005,Not Placed
+Female,88.43860528769679,94.75284922624525,CE,9.375938316167908,Yes,2,0,60.686948602153294,Not Placed
+Male,68.70853414613816,80.7812867032897,CSE,6.589099359913948,Yes,3,0,87.28586965369361,Not Placed
+Female,94.63780914636203,61.121154095517824,CSE,6.464829173469241,No,3,1,34.3768407019992,Not Placed
+Female,87.84387204187428,83.05580553926258,ME,8.176614466050054,No,2,1,91.94750157264114,Not Placed
+Female,78.75303770186751,70.76558097214736,CE,6.401269080404316,Yes,0,2,66.5014316916816,Not Placed
+Female,74.10229166034486,94.98913112160758,IT,9.098734437841875,No,3,3,94.06800294424761,Not Placed
+Male,61.33030076265862,89.92018711019401,IT,8.336112487552711,No,3,5,59.93209335923361,Not Placed
+Female,84.6742483339215,95.57866361581921,CE,7.387253252501372,No,3,2,71.91917800556072,Not Placed
+Female,82.42884104773393,75.49004860322692,ME,7.709930782224243,Yes,2,0,83.5108509652853,Not Placed
+Female,84.89660115192484,69.88899072343871,IT,6.003462774471057,No,0,1,95.97719152640818,Not Placed
+Male,87.38149084848743,91.40654742743897,ME,5.996943385349962,No,3,3,47.49698624783349,Not Placed
+Male,80.35104496542756,73.56166705650219,ME,5.84486112913862,Yes,0,5,93.96519107112815,Not Placed
+Male,72.41621659714156,73.46814805413608,IT,6.721744393818406,No,0,4,93.24909104027712,Placed
+Female,91.49710849761243,73.2578228515893,CSE,9.364675470256696,Yes,0,3,90.11349955446306,Placed
+Male,76.69000284748925,83.20077669058614,CSE,7.566351551796528,No,3,5,56.93625320547723,Not Placed
+Female,76.32512650102981,88.14379365798608,CSE,8.734328280340886,Yes,1,5,41.29539607387686,Not Placed
+Female,60.726900724616904,66.29843072467838,IT,9.467481170497207,No,2,3,70.75006653044589,Not Placed
+Female,68.05198455672415,71.81809479984184,ME,5.759794716513028,No,2,5,45.368774626086136,Not Placed
+Male,83.41941846517751,81.16138084053964,ME,8.892392832266163,Yes,2,1,58.83053182922472,Not Placed
+Male,67.73935123536202,72.44698227684503,CSE,9.417371348212228,Yes,3,4,78.7639089852173,Not Placed
+Female,95.45883490751572,76.68563147953148,CE,8.61433141160966,No,0,1,92.6972344333145,Placed
+Female,79.2965924304336,75.93232312430884,CSE,8.25101470997491,Yes,2,4,58.56833397781462,Not Placed
+Male,68.43221750980616,87.15636844653152,CE,5.544904494963022,Yes,3,0,62.55386738104511,Not Placed
+Male,67.73058605517147,64.8406838080129,IT,9.062011911661164,No,2,2,89.8481813693032,Not Placed
+Male,77.71977073332647,62.87658963777192,IT,8.414984048276539,No,3,1,34.68815284176901,Not Placed
+Male,74.79738768119726,80.58691664216741,CE,9.315675476935068,No,0,4,61.53350000294167,Placed
+Male,97.5902746503945,68.79884056667186,CSE,8.01576678225971,No,2,2,54.53643740003133,Not Placed
+Female,62.611119753510515,74.04381957821738,ME,7.162668703141211,No,2,2,95.05018815834416,Not Placed
+Female,91.59197283643486,92.0083691804975,CSE,5.523910640507557,Yes,0,0,70.67105653625767,Not Placed
+Female,80.82522955324112,79.80078123931874,IT,9.113509323810266,No,0,2,76.98102313657822,Placed
+Male,88.20562111356531,66.45547822992795,CSE,7.061331968805513,No,1,0,48.0761713766312,Not Placed
+Male,76.46019822997633,89.42350195189462,IT,8.104630395303733,Yes,1,3,63.17448540812719,Placed
+Male,70.29582253602189,67.68565885993233,ME,6.334177505871302,No,1,5,90.80477478763979,Not Placed
+Male,88.33862840489279,81.20124291572662,IT,8.632702653120663,No,1,1,97.09484849674182,Placed
+Female,80.87502050630479,80.2635531726059,ME,9.725808157526313,Yes,0,5,48.865830360459086,Placed
+Female,86.39635643796166,68.31119329392124,CE,9.206953281096053,No,0,3,62.30660493120248,Not Placed
+Male,89.89491694687774,89.3991774660353,CE,7.157562462074581,No,0,4,48.170351449253445,Not Placed
+Female,93.4090593588474,69.24907396230415,CSE,8.33517945315992,Yes,3,5,60.028945228862334,Not Placed
+Female,79.53963952035488,87.97669753608491,ME,9.982709530744504,Yes,1,2,86.88995339251434,Placed
+Male,96.75601632600188,91.41277818350434,CE,6.969876622416599,Yes,3,4,90.06162897050604,Not Placed
+Male,69.17686643976097,61.53333142066859,CSE,6.931470011065624,Yes,2,2,89.4425303851193,Not Placed
+Female,60.52054491553875,63.048445365317136,CSE,6.544081811389648,No,1,1,79.43109514833378,Not Placed
+Female,65.04049394883621,79.44215728001294,IT,8.03527907820688,Yes,0,4,71.0855554591235,Placed
+Male,97.6458079684991,88.75574634860558,ME,8.542564289147306,No,0,3,69.86391389205777,Not Placed
+Male,74.40685101827458,74.11646585905851,CE,7.874548597997627,No,2,4,98.6782535507555,Not Placed
+Male,90.56773426774399,87.1738061287806,CSE,7.768016936183467,Yes,0,1,55.370192583108036,Not Placed
+Male,64.18240479964238,95.15179266303454,CE,7.751617507970023,Yes,2,0,75.40472697381709,Not Placed
+Female,65.93584961009164,84.16573241941501,CE,7.362223593943581,No,1,5,70.58083099680573,Placed
+Female,96.05228701568902,62.30298649316657,IT,9.005961638781042,Yes,2,3,61.84107099620077,Not Placed
+Male,94.58809532497474,84.283222038767,IT,7.308492399508285,No,0,0,49.39087670281852,Not Placed
+Male,82.16125056252972,82.52792685930818,CE,8.173372512563706,Yes,0,1,35.919576466806646,Not Placed
+Male,93.47697421430698,93.55076302771144,IT,8.185493889827603,No,2,2,81.61982600394741,Not Placed
+Female,90.50033186941133,97.89504019633691,CE,6.473021541075009,Yes,2,0,62.550666226849934,Not Placed
+Male,62.370974606734535,72.74060390297524,ME,7.45927140779081,No,0,1,95.6575662003726,Placed
+Female,74.65270851550667,62.69932578367208,CE,6.2565315777968316,No,1,5,95.96684178015938,Not Placed
+Female,76.66135517952196,80.13548792136399,CSE,8.916816281133132,Yes,3,3,49.48579371638596,Not Placed
+Male,72.39764888556358,71.37656820080323,IT,5.592343666281963,Yes,3,0,54.75876806065138,Not Placed
+Female,97.064184531564,66.4643858577527,CE,6.161148656126969,No,2,5,63.91765965560076,Not Placed
+Female,81.40951785038646,90.54458583837206,CSE,7.653232523151829,Yes,3,5,51.8182879960529,Not Placed
+Female,66.62124926252443,93.2654137546297,CSE,7.568128257461304,No,0,1,49.73433300333104,Not Placed
+Female,67.24758752845399,73.18837000297701,IT,8.502455517373814,Yes,2,1,51.971284770572936,Not Placed
+Male,91.9241069806896,97.59914297667214,CSE,9.731886432853361,No,0,1,62.96071493562238,Not Placed
+Male,81.263996469683,86.10748772213427,CE,7.126317005802338,Yes,1,3,59.13017573484247,Placed
+Male,94.325324546277,93.81558160599249,CSE,6.289712323216108,No,0,3,64.27371234351713,Not Placed
+Male,68.7334155803095,81.00116617551643,CSE,8.837211787533034,No,2,5,89.82924150652383,Not Placed
+Female,92.46190998189876,78.6490702550697,IT,9.215699282023001,No,0,5,97.89485677416336,Placed
+Male,65.43404266129761,74.23283324842409,ME,9.725027320185738,Yes,3,0,81.06246388821646,Not Placed
+Male,72.83067347597091,97.56382262382698,ME,6.492269185460412,No,1,3,47.476826691816115,Not Placed
+Female,60.02482884892938,93.08542329676968,IT,5.740815083108695,No,0,5,48.57590781213828,Not Placed
+Male,67.58120196732511,71.1700658386421,CE,9.64332842654186,No,1,2,46.67026575659874,Not Placed
+Male,77.78662406090302,77.7193776917131,CSE,8.661197537148109,Yes,1,1,65.9045515342336,Placed
+Male,95.53653929560674,74.28059060215128,IT,9.223988735233212,No,0,5,44.31138607249911,Not Placed
+Female,79.40206878346328,83.37490734056558,CSE,7.6074858367021605,Yes,0,3,49.49295102492866,Not Placed
+Male,95.27857321417969,97.8631351598041,CE,5.612372479526723,No,0,3,80.72188007933403,Not Placed
+Female,83.11614100029533,70.67989050634179,IT,8.630310935593261,Yes,1,5,33.88675229664054,Not Placed
+Male,84.75759596649792,68.00969507547815,IT,8.548269084499928,No,2,5,55.612006668981635,Not Placed
+Female,88.47818822727072,76.38227139368618,CE,8.988598233257271,No,2,0,53.254389966312516,Not Placed
+Female,61.57696835295702,84.20959863132882,ME,8.251586250515473,Yes,1,3,89.3676464510941,Placed
+Male,93.62449447244816,88.08454508569616,IT,9.608189521486104,No,0,3,77.4679681667946,Placed
+Male,73.18166710184666,76.55450203734738,ME,6.903457460936764,No,3,2,89.46739508415308,Not Placed
+Female,97.68445078815317,80.55811015925117,CE,6.335798824023335,No,3,5,34.32659224824558,Not Placed
+Female,66.18605758983672,82.61808769682125,CE,7.036413713219343,No,2,1,43.25753925193923,Not Placed
+Female,62.283663594370466,94.38112098384448,CE,8.892406372194609,No,2,4,38.03578490758961,Not Placed
+Male,89.79983462588014,77.57086472267655,CSE,8.485856172610536,No,1,1,92.68939936922871,Placed
+Male,71.92736690757104,86.26012088409195,CSE,7.480261209292294,Yes,2,1,72.26578943503672,Not Placed
+Male,91.25479667302864,66.58703601306067,CSE,7.891547113851875,No,2,1,50.995944884391584,Not Placed
+Male,76.48606906849928,66.24741010499739,CSE,7.255541056097527,No,2,3,81.31000750558363,Not Placed
+Male,95.39908674376028,91.19727865736735,IT,7.854143593137243,Yes,3,1,69.24058663007341,Not Placed
+Male,63.14389350569949,69.64963533310045,CE,5.970045331450681,No,2,4,38.3096366856378,Not Placed
+Male,68.1584437236075,62.55489884344132,CE,9.025750363803656,Yes,2,5,90.44260112390243,Not Placed
+Female,93.17813602504066,90.00070734011399,CE,6.833609260809798,Yes,1,3,98.84970445595641,Placed
+Female,96.84949804632313,76.3868870520792,ME,6.149391403247214,No,0,3,66.6510539655017,Not Placed
+Female,97.598407099626,81.82859672314382,CSE,8.099342894549903,No,0,0,35.35079027276134,Not Placed
+Male,90.16931666267865,66.01554820401334,CSE,6.9768076725892545,No,0,5,62.66851846190859,Not Placed
+Female,91.95453099531048,68.40707046495044,ME,6.1281949031191,No,0,2,84.70539534195275,Not Placed
+Female,67.76137683866236,60.63673957071053,CSE,9.701872403506615,Yes,0,1,32.286134254914714,Not Placed
+Female,75.49442799010383,66.12631485505466,CE,8.286575644241118,No,0,5,89.14036292427429,Placed
+Female,69.08741672651188,79.46741318170906,ME,9.723169711963696,Yes,0,2,54.8266343489558,Placed
+Male,75.32189473306359,91.67847239805656,CE,6.938434248814281,No,2,2,97.35830126264096,Not Placed
+Female,88.50107966140327,80.20311890305035,CE,8.46171920933908,No,2,5,42.72452070521533,Not Placed
+Female,91.43748169001535,61.592778235217786,CSE,6.490399045921239,No,1,2,46.19664454637936,Not Placed
+Male,87.7964816687184,96.40848433893848,CSE,9.264243207781151,No,3,2,56.573173511616915,Not Placed
+Female,70.85658457370106,63.47221598469555,IT,7.890823082579194,Yes,0,3,61.07326826239381,Placed
+Male,85.00608938672639,60.30624592700055,CE,9.30099659090601,No,3,4,94.05425127620558,Not Placed
+Female,92.08006836087344,78.39278175535736,CE,6.734730723411643,Yes,1,2,69.15837980091499,Placed
+Male,87.0881478427163,86.47441423459645,ME,7.278198838625372,Yes,0,5,87.42987741813141,Placed
+Female,65.03137531286528,74.52558557514342,ME,6.696678027844534,Yes,2,0,72.24701645507847,Not Placed
+Male,86.1457311688169,64.57472799398538,CSE,6.391429825241303,No,0,4,51.50514919148896,Not Placed
+Male,75.85334990545391,66.08857283710724,CSE,8.04438985423484,No,1,5,80.69627833283644,Placed
+Male,72.94070374823607,90.58862175517167,CSE,8.477734071897805,Yes,1,1,46.36689831651449,Not Placed
+Female,91.72799381638734,97.03824264984496,ME,6.690321117949772,No,1,3,32.51511275301811,Not Placed
+Male,68.12052937967248,75.96015481509339,ME,7.268027990019306,No,1,5,84.71308354374793,Placed
+Female,69.4191876316801,86.51321968702513,CE,7.289579864948746,Yes,1,1,49.26674267259058,Not Placed
+Male,70.31669609662303,94.36124507348748,ME,7.809323876905505,No,3,3,58.734705584238824,Not Placed
+Female,68.42771517130811,72.06707403504106,CE,9.177873904959565,Yes,3,3,61.50410475983577,Not Placed
+Female,93.0861613073827,63.17394675784071,CE,6.993992324069943,Yes,3,3,83.13608527889468,Not Placed
+Male,78.40686505283227,86.36461116476164,CE,6.226153112747724,No,3,4,83.21126508531114,Not Placed
+Female,65.67147985017601,70.1906259743067,CE,7.334720967993514,No,1,4,87.9149588378302,Placed
+Male,72.82623370358512,90.50834594183075,ME,8.386770165653132,No,1,3,92.69829609866315,Placed
+Female,68.73976265060314,75.62955093851679,IT,9.438031200511212,Yes,3,0,68.19074852544466,Not Placed
+Female,61.72119645729694,84.94266265662115,ME,7.122135273136992,Yes,0,3,35.68607443646709,Not Placed
+Male,65.93565730136277,97.55999777061228,ME,6.260778002978723,No,2,0,65.49576968421867,Not Placed
+Male,97.43663309344564,89.18420654190197,ME,7.35035714141271,No,3,0,65.04976480856699,Not Placed
+Male,60.894234787735755,76.32566882808007,CE,9.204729457060136,No,3,1,66.65203830068282,Not Placed
+Female,77.89610223335555,78.70482797693151,CE,6.8233035797955,No,1,1,72.17288814924186,Not Placed
+Male,62.31827143420501,70.93758935636103,IT,8.532275042215021,Yes,3,2,77.35386246644231,Not Placed
+Male,82.91970456467199,85.93623346243342,CE,5.506058219304537,No,3,0,31.28702995061181,Not Placed
+Female,95.83635210146491,72.3051438462924,CE,8.86185220208063,No,0,5,39.16816200959219,Not Placed
+Male,92.27896343657795,61.70987920694613,CSE,9.9860914836521,No,0,1,58.796219998881256,Not Placed
+Female,61.05806848794171,83.66382672712766,CSE,6.663662160106528,No,3,1,59.847884976113576,Not Placed
+Male,66.63659306406052,71.2454171185914,ME,9.124866611092257,No,2,3,71.4411789952344,Not Placed
+Female,60.93799797453421,73.78463681516777,IT,5.904445832812723,Yes,1,1,94.20876466043765,Not Placed
+Female,65.44469543070036,87.15931567307737,CE,8.77077473971707,Yes,0,3,72.38368753681618,Placed
+Female,91.82617169489012,83.35045954544199,IT,6.8312084387344125,No,2,2,94.70009495562628,Not Placed
+Female,64.85543680601964,76.80992825789191,IT,8.779501245027914,No,0,5,38.91586314135168,Not Placed
+Female,90.91051032832203,95.1216624349184,IT,9.63278893936701,Yes,0,2,58.14190518217685,Placed
+Male,89.63319359238258,64.49230764706137,CSE,5.561353107576196,No,3,2,40.375222346952725,Not Placed
+Female,90.98050058144128,93.98736676864328,CE,8.045852277759801,No,1,0,56.88298468737703,Not Placed
+Male,97.57575019278825,68.57765350588684,CE,5.927343738527695,No,2,2,88.0806006425137,Not Placed
+Male,75.37955242552702,63.330693775396824,CE,9.980060052208096,No,0,1,63.35228898675797,Not Placed
+Female,78.58335946168955,92.66314308288159,CE,6.918577455922529,No,2,3,38.982810353213516,Not Placed
+Male,86.35004086613975,86.62323686298916,CSE,9.118430513351168,No,2,5,36.475030655727466,Not Placed
+Male,85.60066587460194,89.1649555624468,CE,7.493651678519287,Yes,1,2,43.737200169431595,Not Placed
+Female,96.61223800402445,64.10569325630347,IT,6.841340427361702,No,0,3,75.63306058937223,Not Placed
+Male,97.06797507593282,78.01824325833549,ME,6.551833564165349,Yes,2,2,32.910527189261565,Not Placed
+Female,86.19379565990224,69.58785322864811,IT,8.438273461620291,No,2,2,39.49818224545955,Not Placed
+Male,62.83626038101829,94.49394646074549,CE,6.354712614059024,Yes,1,3,55.103510736751396,Not Placed
+Male,60.79549647741587,71.99937974748084,CSE,9.888309891889786,Yes,1,0,97.65832615864576,Placed
+Male,95.36441410137448,85.69199098094538,IT,7.355258775242495,Yes,2,4,38.43131379975958,Not Placed
+Male,96.8342288667988,74.35789012163309,IT,7.600276421955777,No,1,5,34.27732673337426,Not Placed
+Female,64.04081729923263,64.33731883376602,CE,7.3031687507551,No,3,0,59.037795886494635,Not Placed
+Female,85.06823037135803,76.79726999538269,CE,7.286265878204318,No,0,1,81.13447342376097,Not Placed
+Female,67.51029038246294,66.8596926789121,CSE,8.208130302754512,No,1,2,53.6659086556383,Not Placed
+Female,74.88621312136657,66.18111097400843,CSE,8.28985854193374,Yes,3,0,32.9374851410544,Not Placed
+Female,63.74658074919358,64.42615828758682,CE,9.113553466868442,No,2,2,69.60953922192726,Not Placed
+Male,75.05987976893238,71.2603804721924,CE,8.012585417788511,Yes,2,3,73.00800052019267,Not Placed
+Male,72.12669261317758,77.85678413727662,CSE,9.227974019225458,No,2,1,74.10651888031643,Not Placed
+Male,89.77184328187218,70.52863148910919,ME,8.553210258927615,No,1,1,42.40074662558379,Not Placed
+Male,61.53084971356394,75.40606735528789,CSE,7.401952152050312,Yes,1,0,92.65457021958721,Placed
+Female,89.86516049593871,83.48139927415932,ME,9.921345725152175,No,2,4,49.623432678598874,Not Placed
+Female,76.71451430912572,84.47035001900932,CSE,6.0240651871677064,No,2,2,62.153200856038,Not Placed
+Male,94.41047584129825,91.74415615080136,ME,9.192194130161237,Yes,1,3,54.71720222568726,Placed
+Male,81.07810694195796,91.38542772490061,IT,7.5975233169632,No,0,2,97.05621019482963,Placed
+Male,82.99340170454046,68.37853029776048,ME,7.652509667517501,No,1,4,72.30515238003397,Not Placed
+Male,79.88925209503631,68.61735976214653,ME,7.182136489901511,Yes,2,2,42.912133574191834,Not Placed
+Female,74.69486816767116,61.94370781357511,ME,9.346626004596676,Yes,2,1,40.172868469435286,Not Placed
+Male,62.35757384434906,62.70391579736057,ME,7.842022318743787,Yes,0,3,48.06727504123279,Not Placed
+Female,94.8666343668423,89.55682728942114,IT,6.33374582650093,No,0,3,33.19096105640681,Not Placed
+Male,92.00228431271448,71.27127432196954,CSE,9.716175386790125,Yes,3,1,82.97306631728497,Not Placed
+Male,66.31084438867352,62.24602119327487,IT,8.579414120164051,Yes,1,5,56.74976323827985,Placed
+Male,62.916806351772046,60.1591228578624,CSE,5.7493714979901,No,3,0,59.08101004144628,Not Placed
+Female,72.74412103626358,66.72912570509702,IT,5.686426399687245,Yes,1,5,64.32859634298592,Not Placed
+Female,61.93704532685281,83.46610637236785,IT,8.548956123326992,No,1,3,35.091446344506785,Not Placed
+Female,73.29763843568713,89.73218086408593,ME,6.962152574829886,Yes,1,5,81.11703340505076,Placed
+Female,83.96726289069332,88.1079501149981,IT,6.314013556205042,Yes,1,3,81.16092420433122,Not Placed
+Female,81.97767099842852,91.63924738639298,ME,5.805879849187317,No,0,1,92.30966374128397,Not Placed
+Male,77.46649470065802,85.6789291300185,IT,7.838252541113533,Yes,3,3,77.28192317354979,Not Placed
+Female,65.05437235847849,66.03199700822375,ME,8.073051921711912,No,0,0,58.635960404441335,Not Placed
+Female,71.5075357811922,87.7734256862439,ME,7.382752900202501,No,2,1,70.29154000480574,Not Placed
+Female,77.92611382570068,81.03192749597429,CSE,6.510710980336982,No,2,2,54.83822988802139,Not Placed
+Male,81.42793100010529,69.92417243541269,CSE,8.851315275231444,No,0,1,65.92225575974251,Not Placed
+Female,76.7404880751738,72.05760814197849,IT,7.385947628126884,No,0,1,50.172916817167064,Not Placed
+Female,78.85709043223093,70.85378756536524,IT,5.910889611451016,No,1,2,42.20864869780497,Not Placed
+Female,63.47403568905125,83.7759126659314,CSE,7.1274119267847,No,2,5,74.94605551466793,Not Placed
+Female,78.7918027545755,64.62442165561355,IT,9.50796304957829,No,2,2,72.81524935729948,Not Placed
+Female,69.71826065883542,72.44199643187102,CSE,6.7095892676358915,No,2,1,51.44908145457255,Not Placed
+Male,82.34368191962565,76.20699039519073,CE,9.241933538519495,No,2,1,84.08696916897166,Not Placed
+Male,82.00115056905751,60.55514189013755,CSE,9.15339755804671,No,2,0,51.61615927447308,Not Placed
+Female,70.107912337521,72.64567302051023,CSE,9.487770823251969,No,3,1,92.01397968481974,Not Placed
+Male,60.71992532822547,87.96488223497558,CSE,6.792495441423179,Yes,3,5,33.99820143593103,Not Placed
+Female,60.03531784105852,94.32249783909887,IT,9.366002909411124,No,3,4,46.734646885252076,Not Placed
+Male,88.88021070855974,71.8787249465154,CE,9.69264088156526,Yes,3,4,95.41807165008609,Not Placed
+Female,89.7118546938818,89.10262846762019,CSE,6.183487775514836,No,2,0,42.772062845674306,Not Placed
+Male,76.27098971495256,84.01672992005258,ME,7.770051737512099,No,1,2,75.16530030912648,Not Placed
+Male,68.82453825425104,75.40236370458423,ME,7.8553323328036235,Yes,3,0,55.91625299792037,Not Placed
+Male,94.08582099584763,92.1527200001488,CSE,8.459722662741791,Yes,1,2,85.15790935136522,Placed
+Male,70.16178058194009,90.87084751907373,IT,6.926241797952766,Yes,1,0,51.172642222302876,Not Placed
+Male,92.57477562005207,89.0567361146252,CSE,9.603183829087413,No,1,4,52.971205064752546,Not Placed
+Female,85.43556540114844,68.78863727600631,ME,6.039788237789364,No,2,2,90.29926322668622,Not Placed
+Female,96.19069659115154,72.49525947824715,CE,6.560302830362418,Yes,2,3,50.26086264777457,Not Placed
+Male,90.52330637726264,97.48939833634759,CSE,8.838899782812936,Yes,3,2,91.11302029106423,Not Placed
+Female,62.03812207779157,87.26366964325265,ME,6.479706308401682,No,2,0,87.43864974790031,Not Placed
+Male,84.16979900888681,75.26813913415813,CSE,7.800011373202752,Yes,2,4,98.68691182188235,Not Placed
+Male,95.48690582815746,75.28450192419027,IT,8.519558412398094,Yes,2,0,51.29693046790371,Not Placed
+Female,83.2563241384593,71.63943788172642,IT,5.712385157638206,Yes,2,1,74.19631843503636,Not Placed
+Female,69.45408797208873,95.79821234056664,CSE,6.095295764429672,Yes,0,5,93.80603081060956,Not Placed
+Female,62.1341563763259,69.71428556422374,IT,7.04841228032249,No,1,4,32.32875798185509,Not Placed
+Female,75.802730897502,62.39893654990273,ME,6.624878008909734,No,1,0,71.67564591098109,Not Placed
+Female,76.04330488746577,89.83242899976439,ME,9.52775471799925,Yes,3,0,39.6153222178072,Not Placed
+Female,61.75039641991514,95.37131484962433,ME,6.943845442374296,No,2,0,60.46835957595877,Not Placed
+Male,73.11063991713351,62.079842863149466,CE,7.654171860844851,Yes,1,0,68.76764084436078,Placed
+Male,70.69293332254219,91.2446682779264,CSE,6.0416360929449375,No,1,0,46.22889042003085,Not Placed
+Male,71.69270690881407,69.20263671320387,ME,7.18671215957499,Yes,3,1,37.74225192112126,Not Placed
+Female,97.78455150205716,68.84367725879096,ME,8.87617357339292,No,0,4,35.68149571246002,Not Placed

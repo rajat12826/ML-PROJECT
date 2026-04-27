@@ -1,70 +1,34 @@
-# 🎓 Campus Placement Predictor
+# 🎓 Campus Placement Predictor (Logic-First Edition)
 
-A premium Machine Learning application built with **Streamlit** to predict student placement probability and estimate salary packages for **MBA** and **Engineering** domains.
+A premium, state-of-the-art placement prediction system that uses **Gradient Boosting (GBM)** and **Real-World Logical Constraints** to provide accurate career guidance.
 
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.24+-FF4B4B?logo=streamlit&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3+-F7931E?logo=scikit-learn&logoColor=white)
+## 🚀 Key Features
+*   **Intelligence Modes**: Dual support for Engineering and MBA career paths.
+*   **Real-World Logic Engine**: Moves beyond simple academic history. Factors in **Backlogs**, **Technical Projects**, **Technical Scores**, and **Employability Tests**.
+*   **Predictive Sensitivity**: Captures hard-floor failures (e.g., failing a core test results in 0.0% probability) using advanced GBM models.
+*   **Model Forensics**: Deep-dive into AI accuracy, F1-Scores, and Confusion Matrices.
+*   **Career Roadmaps**: Stream-specific skill recommendations and company tiering.
 
----
-
-## 🚀 Features
-- **Dual Domain Intelligence:** Specialized models for MBA and Engineering datasets.
-- **NLP Resume Parser:** Upload a PDF resume to autofill profile details and extract technical skills.
-- **Explainable AI:**
-  - **Probability Score:** Real-time placement chance in %.
-  - **Success Path Optimizer:** Interactive "What-If" analysis to see how score improvements affect results.
-  - **Peer Benchmarking:** Compare performance against the average of placed students.
-- **Career Roadmap:** Personalized career path recommendations based on domain and skills.
-- **Premium UI:** Dark-mode "Linear" style aesthetics with glassmorphic cards and dynamic visualizations.
-
----
-
-## 🛠️ Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone <repo-url>
-   cd ml-project
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Train Models (Optional - Models are pre-trained):**
-   ```bash
-   python train_all.py
-   ```
-
-4. **Launch Application:**
-   ```bash
-   streamlit run app.py
-   ```
-
----
+## 🛠️ Technology Stack
+*   **Core**: Python 3.x
+*   **Frontend**: Streamlit (Premium Glassmorphism UI)
+*   **Machine Learning**: Scikit-Learn (GradientBoostingClassifier, RandomForestRegressor)
+*   **Data Handling**: Pandas, NumPy
+*   **Visualization**: Matplotlib, Seaborn
 
 ## 📂 Project Structure
-- `app.py`: Main Streamlit application.
-- `src/`: Core logic modules.
-  - `data_manager.py`: Data loading and preprocessing.
-  - `model_trainer.py`: Model architecture and training pipeline.
-  - `resume_parser.py`: NLP logic for PDF text extraction.
-  - `recommender.py`: Rule-based career guidance.
-  - `analyzer.py`: Benchmarking and tier classification.
-  - `eda_utils.py`: Visualization styling and plotting.
-- `models/`: Serialized `.pkl` files (Logistic Regression & Random Forest).
-- `PROJECT_REPORT.md`: Detailed documentation for documentation/submission.
-- `VIVA_CHEATSHEET.md`: Line-by-line explanation for viva preparation.
+*   `app.py`: The main premium UI and dashboard.
+*   `src/data_manager.py`: Robust data cleaning and preprocessing.
+*   `src/model_trainer.py`: Gradient Boosting training pipeline.
+*   `src/analyzer.py`: Peer benchmarking and salary tiering logic.
+*   `src/recommender.py`: Skills and career roadmap generator.
+*   `models/`: Serialized models and performance metrics.
+
+## 📈 Logical Constraints Verified
+This model is designed to be **Logical**.
+*   **Engineering**: High CGPA is ignored if you have >1 Backlog or Failing Technical Scores.
+*   **MBA**: High 10th/12th marks are ignored if your **E-test** or **Degree %** is critically low.
+*   **Result**: No more "biases" where bad students get predicted as placed.
 
 ---
-
-## 🧠 Machine Learning Overview
-- **Classification:** Logistic Regression (for binary placement prediction).
-- **Regression:** Random Forest Regressor (for salary estimation).
-- **Split:** 80% Training | 20% Testing.
-- **Preprocessing:** Label Encoding for categorical data and heuristic normalization.
-
----
-*Developed for ML Lab Project* 🚀
+**Developed by Antigravity AI**
