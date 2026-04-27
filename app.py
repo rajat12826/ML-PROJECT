@@ -35,7 +35,18 @@ st.markdown("""
 # Navigation
 st.sidebar.title("🎓 Career Guide")
 domain_mode = st.sidebar.radio("⚡ Intelligence Mode", ["Engineering", "MBA"], index=1)
+
+# Model Selection Dropdown
+st.sidebar.markdown("---")
+st.sidebar.subheader("🧠 Brain Selection")
+model_options = ["Gradient Boosting", "Random Forest", "Logistic Regression", "Extra Trees"]
+selected_model_type = st.sidebar.selectbox("Choose AI Model", model_options, index=0)
+
 page = st.sidebar.selectbox("Navigate", ["Dashboard (EDA)", "Prediction & Recommendation", "Model Forensics"])
+
+if st.sidebar.button("🔄 Reset Cache & Reload"):
+    st.cache_resource.clear()
+    st.rerun()
 
 # Smart Defaults Optimized for Rewritten Datasets
 SMART_DEFAULTS = {
@@ -46,22 +57,41 @@ SMART_DEFAULTS = {
 
 # Loader
 @st.cache_resource
-def load_resources(mode):
+def load_resources(mode, model_type):
     dm = DataManager(mode=mode)
     df = dm.load_data()
     model_path = f'models/{mode.lower()}'
-    placement_model = joblib.load(f'{model_path}/placement_model.pkl')
-    try: salary_model = joblib.load(f'{model_path}/salary_model.pkl')
-    except: salary_model = None
+    model_slug = model_type.lower().replace(" ", "_")
+    
+    try:
+        placement_model = joblib.load(f'{model_path}/placement_model_{model_slug}.pkl')
+    except:
+        # Fallback to default if slug not found
+        placement_model = joblib.load(f'{model_path}/placement_model.pkl')
+        
+    try:
+        salary_model = joblib.load(f'{model_path}/salary_model_{model_slug}.pkl')
+    except:
+        try: salary_model = joblib.load(f'{model_path}/salary_model.pkl')
+        except: salary_model = None
+        
     features = joblib.load(f'{model_path}/features.pkl')
     encoders = joblib.load(f'{model_path}/label_encoders.pkl')
-    try: metrics = joblib.load(f'{model_path}/metrics.pkl')
-    except: metrics = None
+    
+    try: 
+        metrics = joblib.load(f'{model_path}/metrics_{model_slug}.pkl')
+    except:
+        try: metrics = joblib.load(f'{model_path}/metrics.pkl')
+        except: metrics = None
+    
+    try: scaler = joblib.load(f'{model_path}/scaler.pkl')
+    except: scaler = None
+        
     recommender = Recommender()
     analyzer = Analyzer(df)
-    return df, placement_model, salary_model, features, encoders, recommender, analyzer, metrics
+    return df, placement_model, salary_model, features, encoders, recommender, analyzer, metrics, scaler
 
-df, placement_model, salary_model, features, encoders, recommender, analyzer, metrics = load_resources(domain_mode)
+df, placement_model, salary_model, features, encoders, recommender, analyzer, metrics, scaler = load_resources(domain_mode, selected_model_type)
 
 def show_results(input_data, mode='MBA'):
     # AI DataFrame Integration
@@ -75,7 +105,13 @@ def show_results(input_data, mode='MBA'):
         else: encoded_input.append(float(val) if val is not None else 0.0)
     
     X_df = pd.DataFrame([encoded_input], columns=features)
-    prob = placement_model.predict_proba(X_df)[0][1]
+    
+    # Scaling if scaler exists
+    if scaler:
+        X_scaled = scaler.transform(X_df)
+        prob = placement_model.predict_proba(X_scaled)[0][1]
+    else:
+        prob = placement_model.predict_proba(X_df)[0][1]
     
     st.markdown("---")
     res_col1, res_col2 = st.columns([1, 1])
@@ -94,7 +130,8 @@ def show_results(input_data, mode='MBA'):
             else:
                 st.success("🎉 High Success Probability!")
             if salary_model:
-                salary_pred = salary_model.predict(X_df)[0]
+                X_sal = scaler.transform(X_df) if scaler else X_df
+                salary_pred = salary_model.predict(X_sal)[0]
                 st.metric("Estimated Salary/CTC", f"₹ {salary_pred:,.2f}")
         else:
             st.error("📉 Low success probability. Focusing on core skills and clearing backlogs is essential.")
@@ -139,9 +176,14 @@ elif page == "Prediction & Recommendation":
 elif page == "Model Forensics":
     st.title("🧬 Logic-Driven AI Status")
     if metrics:
-        st.write(f"Architecture: Gradient Boosting (GBM)")
-        st.write(f"Accuracy: {metrics['classification']['accuracy']*100:.2f}% | F1: {metrics['classification']['f1_score']:.3f}")
-        fig, ax = plt.subplots(); sns.heatmap(metrics['classification']['confusion_matrix'], annot=True, fmt='d', cmap='Oranges', ax=ax); st.pyplot(fig)
+        st.write(f"Architecture: {selected_model_type}")
+        st.write(f"Test Accuracy: {metrics['classification']['accuracy']*100:.2f}% | Test F1: {metrics['classification']['f1_score']:.3f}")
+        
+        st.subheader(f"📊 Global Confusion Matrix (Total: {metrics['classification'].get('sample_count', '800')} samples)")
+        # Use full matrix if available, otherwise fallback
+        cm = metrics['classification'].get('confusion_matrix_full', metrics['classification']['confusion_matrix'])
+        fig, ax = plt.subplots(); sns.heatmap(cm, annot=True, fmt='d', cmap='Oranges', ax=ax); st.pyplot(fig)
+        
         st.subheader("💡 Sensitivity Analysis")
         st.bar_chart(metrics['classification']['feature_importances'])
     else: st.warning("Metrics missing.")
