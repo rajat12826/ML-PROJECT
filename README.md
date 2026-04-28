@@ -30,5 +30,3 @@ This model is designed to be **Logical**.
 *   **MBA**: High 10th/12th marks are ignored if your **E-test** or **Degree %** is critically low.
 *   **Result**: No more "biases" where bad students get predicted as placed.
 
----
-**Developed by Antigravity AI**
